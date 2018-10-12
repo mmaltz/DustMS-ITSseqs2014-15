@@ -1,7 +1,7 @@
 ---
 title: "Mia_Dust_FunGuilds"
 author: "Nat Pombubpa"
-date: "Updated on October 5, 2018"
+date: "Updated on October 12, 2018"
 output: html_document
 ---
 
@@ -25,8 +25,6 @@ library(magrittr)
 library(ggplot2)
 library(ggpubr)
 library(plyr)
-library(ampvis)
-library(circlize)
 ```
 
 ###STEP2: Import Mapping file (metadate file)
