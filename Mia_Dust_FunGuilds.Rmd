@@ -1,0 +1,162 @@
+---
+title: "Mia_Dust_FunGuilds"
+author: "Nat Pombubpa"
+date: "Updated on October 5, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+###STEP1: Load all necessary packages for analysis
+More information about Phyloseq can be found at the following link: [Phyloseq](https://joey711.github.io/phyloseq/)
+If you get error in this step, you probably need to install any packages which causes error.
+
+```{r message=FALSE, warning=FALSE}
+library(ape)
+library(vegan)
+library(dplyr)
+library(scales)
+library(grid)
+library(reshape2)
+library(phyloseq)
+library(magrittr)
+library(ggplot2)
+library(ggpubr)
+library(plyr)
+library(ampvis)
+library(circlize)
+```
+
+###STEP2: Import Mapping file (metadate file)
+1.Check mapping file before import to R, R will automatically change sample name that starts with number or contain “-” in sample name. If you get error in this step, you should check sample name first.
+
+2.First column of first row should not start with #, R will not read the first row that starts with #
+
+3.Please make sure that your metadata and FunGuilds SampleID are the same. 
+
+```{r}
+meta = read.table("DustFungiMap.csv",header=TRUE,row.names=1,sep=",",stringsAsFactors=FALSE)
+```
+
+###STEP3: Check if your metadata file has been import successfully and correctly
+
+The output will show a table of your metadata file (mapping file).
+
+*If you do not have header, you might start your first row with #
+
+```{r}
+head(meta)
+```
+
+###STEP4: Construct sample_data-class using imported metadata
+
+```{r}
+sampleData <- sample_data(meta)
+```
+
+###STEP5: Import FunGuilds table
+
+FunGuilds table from Dust data is “DustFungi.guilds.txt”. This is otu table which also includes Taxon,Trophic Mode, Guild, Growth Morphology etc.)
+'FG' contains the entire table, but 'FGotus' is used to select only the otu table part from FunGuilds table (abundance + OTU ID)
+
+```{r}
+FG <- read.table("DustFungi.guilds.txt",header=T,sep="\t",row.names=1)
+FGotus <- select(FG, -(Taxonomy:Citation.Source))
+FGotumat <- as(as.matrix(FGotus), "matrix")
+FGOTU = otu_table(FGotumat, taxa_are_rows = TRUE)
+```
+
+Entire Data from FunGuilds table (first 6 lines)
+
+```{r}
+head(FG)
+```
+
+Selcted Data from FunGuilds table (first 6 lines)
+
+```{r}
+head(FGOTU)
+```
+
+###STEP6: Import Functional Guilds (Trophic Mode, Guild, Growth.Morphology) as Taxonomy feature
+
+```{r}
+FGtaxmat <- select(FG, Confidence.Ranking, Trophic.Mode, Guild, Growth.Morphology, Taxon)
+FGtaxmat <- as(as.matrix(FGtaxmat),"matrix")
+FGTAX = tax_table(FGtaxmat)
+```
+
+```{r}
+head(FGTAX)
+```
+
+###STEP7: Construct Phyloseq object
+To construct phyloseq object, otu table, taxonomy table, and sampleData are required.
+
+```{r}
+fgps = phyloseq(FGOTU,FGTAX,sampleData)
+```
+
+Check phyloseq object
+
+```{r}
+fgps
+```
+
+###STEP8: Filtering FunGuilds Data
+Remove any OTUs which has less than 10 reads
+Remove Guilds that have Confidence.Ranking = Possible 
+Remove na data
+Remove NULL data
+
+Note: you might want to check the entire data before you use these filters.
+
+```{r}
+fgps.prune = prune_taxa(taxa_sums(fgps) > 10, fgps)
+fgps.prune.confidence1 = subset_taxa(fgps.prune, Confidence.Ranking!="Possible")
+fgps.prune.no.na = subset_taxa(fgps.prune.confidence1, Trophic.Mode!="-")
+fgps.prune.no.null = subset_taxa(fgps.prune.no.na, Guild!="NULL")
+fgps.prune.no.null = subset_taxa(fgps.prune.no.null, Growth.Morphology!="NULL")
+```
+
+Check phyloseq object after filtering
+
+```{r}
+fgps.prune.no.null
+```
+
+###STEP9: Plot all FunGuilds data from Trophic.Mode, Guild, Growth.Morphology
+
+x = any environmental variable (in this case, I tested with Elevayion)
+fill = Functional Guilds that you want to plot (Trophic.Mode, Guild, Growth.Morphology)
+
+```{r fig.height=6, fig.width=10, fig.align="center"}
+ggplot(data = psmelt(fgps.prune.no.null), mapping = aes_string(x = "Elevation" ,y = "Abundance", 
+                                                               fill = "Trophic.Mode" )) + 
+  geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Trophic.Mode by Elevation")
+```
+
+```{r fig.height=6, fig.width=10, fig.align="center"}
+ggplot(data = psmelt(fgps.prune.no.null), mapping = aes_string(x = "Elevation" ,y = "Abundance", 
+                                                               fill = "Growth.Morphology" )) + 
+  geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Growth.Morphology by Elevation")
+```
+
+```{r fig.height=6, fig.width=12, fig.align="center"}
+ggplot(data = psmelt(fgps.prune.no.null), mapping = aes_string(x = "Elevation" ,y = "Abundance", 
+                                                               fill = "Guild" )) + 
+  geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Guild by Elevation")
+```
+
+###STEP10: Get the top 100 OTUs and plot only the top abundance
+
+```{r}
+ps.prune = prune_taxa(names(sort(taxa_sums(fgps.prune.no.null), TRUE))[1:50], fgps.prune.no.null)
+```
+
+```{r fig.height=6, fig.width=12, fig.align="center"}
+ggplot(data = psmelt(ps.prune), mapping = aes_string(x = "Elevation" ,y = "Abundance", fill = "Guild" )) + 
+  geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Guild by Elevation")
+```
