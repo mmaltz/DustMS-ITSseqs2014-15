@@ -2,9 +2,9 @@
 
 Github repository for Dust ITSseqa2014-2015
 
-###ITS Data and Analysis Folders
+##ITS Data and Analysis Folders
 
-Dust_Fungi folder contains
+[Dust_Fungi](Dust_Fungi/) folder contains
 - OTU table: DustFungi.otu_table.txt 
 - Taxonomy table: DustFungi.taxonomy.txt
 - Mapping file: SierraMapIsoF.csv
