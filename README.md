@@ -11,6 +11,6 @@ Github repository for Dust ITSseqs2014-2015
 
 
 #### [Dust_FunGuilds](Dust_FunGuilds/) folder contains
-- Functional Guilds table: DustFungi.guilds.txt
-- Mapping file: SierraMapIsoF.csv
-- Working Rmd file: Mis_Dust_FunGuilds.Rmd
+- Functional Guilds table: [DustFungi.guilds.txt](Dust_FunGuilds/DustFungi.guilds.txt)
+- Mapping file: [SierraMapIsoF.csv](Dust_FunGuilds/SierraMapIsoF.csv)
+- Working Rmd file: [Mia_Dust_FunGuilds.Rmd](Dust_FunGuilds/Mia_Dust_FunGuilds.Rmd)
