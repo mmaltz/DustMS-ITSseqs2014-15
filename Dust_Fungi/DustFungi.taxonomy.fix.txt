@@ -1,0 +1,2181 @@
+	Kingdom	Phylum	Class	Order	Family	Genus	Species
+OTU1	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	NA
+OTU2	Fungi	NA	NA	NA	NA	NA	NA
+OTU3	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU4	Fungi	Ascomycota	Dothideomycetes	Dothideales	NA	NA	NA
+OTU5	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	Sarcinomyces	NA
+OTU6	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	NA
+OTU7	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+OTU8	Fungi	NA	NA	NA	NA	NA	NA
+OTU9	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	NA
+OTU10	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Filobasidium	NA
+OTU11	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Cryptococcus	NA
+OTU12	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU13	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Ulocladium	Ulocladium dauci
+OTU14	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	NA
+OTU15	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Vishniacozyma	Vishniacozyma victoriae
+OTU16	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakiaceae	Phaffia	NA
+OTU17	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	NA	NA
+OTU18	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU19	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Filobasidium	Filobasidium magnum
+OTU20	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothideaceae	Endoconidioma	Endoconidioma populi
+OTU21	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU22	Fungi	NA	NA	NA	NA	NA	NA
+OTU23	Fungi	NA	NA	NA	NA	NA	NA
+OTU24	Fungi	Basidiomycota	Tremellomycetes	Holtermanniales	NA	Holtermanniella	Holtermanniella wattica
+OTU25	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU26	Fungi	NA	NA	NA	NA	NA	NA
+OTU27	Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	Venturia	NA
+OTU28	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU29	Fungi	NA	NA	NA	NA	NA	NA
+OTU30	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	NA	NA
+OTU31	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU32	Fungi	NA	NA	NA	NA	NA	NA
+OTU33	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU34	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU35	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Pseudopithomyces	Pseudopithomyces chartarum
+OTU36	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	Preussia africana
+OTU37	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU38	Fungi	NA	NA	NA	NA	NA	NA
+OTU39	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Neostagonospora	NA
+OTU40	Fungi	NA	NA	NA	NA	NA	NA
+OTU41	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU42	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Stemphylium	NA
+OTU43	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormiella	NA
+OTU44	Fungi	NA	NA	NA	NA	NA	NA
+OTU45	Fungi	NA	NA	NA	NA	NA	NA
+OTU46	Fungi	NA	NA	NA	NA	NA	NA
+OTU47	Fungi	NA	NA	NA	NA	NA	NA
+OTU48	Fungi	NA	NA	NA	NA	NA	NA
+OTU49	Fungi	NA	NA	NA	NA	NA	NA
+OTU50	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Filobasidium	NA
+OTU51	Fungi	NA	NA	NA	NA	NA	NA
+OTU52	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	Naganishia globosa
+OTU53	Fungi	NA	NA	NA	NA	NA	NA
+OTU54	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Laetiporus	Laetiporus gilbertsonii
+OTU55	Fungi	NA	NA	NA	NA	NA	NA
+OTU56	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodosporidiobolus	NA
+OTU57	Fungi	NA	NA	NA	NA	NA	NA
+OTU58	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU60	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Rhynchogastremataceae	Papiliotrema	Papiliotrema laurentii
+OTU61	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	NA
+OTU62	Fungi	NA	NA	NA	NA	NA	NA
+OTU63	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	NA
+OTU64	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU65	Fungi	NA	NA	NA	NA	NA	NA
+OTU66	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormia	Sporormia subticinensis
+OTU67	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	NA
+OTU68	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU69	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU70	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	Sydowia	Sydowia polyspora
+OTU71	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	NA
+OTU72	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU73	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	Curvibasidium	Curvibasidium rogersii
+OTU74	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU75	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Neocatenulostroma	NA
+OTU76	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Calyptrozyma	NA
+OTU77	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Thyrostroma	NA
+OTU78	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU79	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Protomycetaceae	Protomyces	NA
+OTU80	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU81	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU82	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU83	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU84	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU85	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU86	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU87	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Meristemomyces	Meristemomyces frigidus
+OTU88	Fungi	NA	NA	NA	NA	NA	NA
+OTU89	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Protomycetaceae	Saitoella	Saitoella complicata
+OTU90	Fungi	NA	NA	NA	NA	NA	NA
+OTU91	Fungi	NA	NA	NA	NA	NA	NA
+OTU92	Fungi	NA	NA	NA	NA	NA	NA
+OTU93	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU94	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU95	Fungi	NA	NA	NA	NA	NA	NA
+OTU96	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU97	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	Cladosporium	Cladosporium herbarum
+OTU98	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Pseudopithomyces	Pseudopithomyces chartarum
+OTU99	Fungi	NA	NA	NA	NA	NA	NA
+OTU100	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU101	Fungi	NA	NA	NA	NA	NA	NA
+OTU102	Fungi	NA	NA	NA	NA	NA	NA
+OTU103	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	NA	NA
+OTU104	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Cystofilobasidium	Cystofilobasidium macerans
+OTU105	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Rhynchogastremataceae	Papiliotrema	NA
+OTU106	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	Phaeotheca	Phaeotheca fissurella
+OTU107	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU108	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU110	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU111	Fungi	NA	NA	NA	NA	NA	NA
+OTU112	Fungi	NA	NA	NA	NA	NA	NA
+OTU113	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Filobasidium	Filobasidium oeirense
+OTU114	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU115	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	Rachicladosporium	NA
+OTU117	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	NA
+OTU118	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU119	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala xenobiotica
+OTU120	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	Pyronema	NA
+OTU121	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	NA
+OTU122	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA
+OTU123	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Caliciaceae	NA	NA
+OTU124	Fungi	NA	NA	NA	NA	NA	NA
+OTU125	Fungi	NA	NA	NA	NA	NA	NA
+OTU126	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	NA	NA
+OTU127	Fungi	Ascomycota	Dothideomycetes	Dothideales	Aureobasidiaceae	NA	NA
+OTU128	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Dioszegia	NA
+OTU129	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU130	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU131	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Piskurozymaceae	Solicoccozyma	Solicoccozyma terrea
+OTU132	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU133	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU134	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU135	Fungi	NA	NA	NA	NA	NA	NA
+OTU136	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU137	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU138	Fungi	NA	NA	NA	NA	NA	NA
+OTU139	Fungi	NA	NA	NA	NA	NA	NA
+OTU140	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	NA	NA
+OTU141	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	Phoma acetosellae
+OTU142	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU143	Fungi	NA	NA	NA	NA	NA	NA
+OTU144	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU145	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	Phoma herbarum
+OTU146	Fungi	NA	NA	NA	NA	NA	NA
+OTU147	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU148	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Glarea	Glarea lozoyensis
+OTU149	Fungi	NA	NA	NA	NA	NA	NA
+OTU150	Fungi	NA	NA	NA	NA	NA	NA
+OTU151	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Chaetopyrena	Chaetopyrena penicillata
+OTU152	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	NA	NA
+OTU153	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	NA
+OTU154	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	Cystobasidium pinicola
+OTU155	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	Cystobasidium slooffiae
+OTU156	Fungi	Ascomycota	Sordariomycetes	Trichosphaeriales	Trichosphaeriaceae	Nigrospora	Nigrospora oryzae
+OTU157	Fungi	NA	NA	NA	NA	NA	NA
+OTU158	Fungi	NA	NA	NA	NA	NA	NA
+OTU159	Fungi	NA	NA	NA	NA	NA	NA
+OTU160	Fungi	NA	NA	NA	NA	NA	NA
+OTU161	Fungi	NA	NA	NA	NA	NA	NA
+OTU162	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU163	Fungi	NA	NA	NA	NA	NA	NA
+OTU164	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU165	Fungi	Ascomycota	Leotiomycetes	Helotiales	Rutstroemiaceae	NA	NA
+OTU166	Fungi	NA	NA	NA	NA	NA	NA
+OTU167	Fungi	Ascomycota	Arthoniomycetes	Lichenostigmatales	Phaeococcomycetaceae	Phaeococcomyces	NA
+OTU168	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU169	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula kratochvilovae
+OTU170	Fungi	NA	NA	NA	NA	NA	NA
+OTU171	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU172	Fungi	NA	NA	NA	NA	NA	NA
+OTU173	Fungi	NA	NA	NA	NA	NA	NA
+OTU174	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	NA	NA
+OTU175	Fungi	NA	NA	NA	NA	NA	NA
+OTU176	Fungi	NA	NA	NA	NA	NA	NA
+OTU177	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU178	Fungi	NA	NA	NA	NA	NA	NA
+OTU179	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	NA
+OTU180	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU182	Fungi	NA	NA	NA	NA	NA	NA
+OTU183	Fungi	NA	NA	NA	NA	NA	NA
+OTU184	Fungi	NA	NA	NA	NA	NA	NA
+OTU185	Fungi	NA	NA	NA	NA	NA	NA
+OTU186	Fungi	NA	NA	NA	NA	NA	NA
+OTU187	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU188	Fungi	NA	NA	NA	NA	NA	NA
+OTU189	Fungi	Ascomycota	Sordariomycetes	Microascales	Ceratocystidaceae	Ceratocystis	Ceratocystis minor
+OTU190	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Cryptococcus	NA
+OTU191	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Neocatenulostroma	NA
+OTU192	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Melanohalea	NA
+OTU193	Fungi	NA	NA	NA	NA	NA	NA
+OTU194	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleraceae	Bullera	Bullera unica
+OTU195	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	NA
+OTU196	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	NA
+OTU197	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Cucurbitariaceae	Pyrenochaeta	Pyrenochaeta cava
+OTU198	Fungi	NA	NA	NA	NA	NA	NA
+OTU199	Fungi	Ascomycota	Lecanoromycetes	Trapeliales	Trapeliaceae	NA	NA
+OTU200	Fungi	NA	NA	NA	NA	NA	NA
+OTU201	Fungi	NA	NA	NA	NA	NA	NA
+OTU202	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Juncaceicola	NA
+OTU203	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU204	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU205	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Lecanoraceae	NA	NA
+OTU206	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU207	Fungi	NA	NA	NA	NA	NA	NA
+OTU208	Fungi	NA	NA	NA	NA	NA	NA
+OTU209	Fungi	NA	NA	NA	NA	NA	NA
+OTU210	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU211	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	Phoma adonidicola
+OTU212	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Constantinomyces	Constantinomyces minimus
+OTU213	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Melanelixia	NA
+OTU214	Fungi	NA	NA	NA	NA	NA	NA
+OTU215	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella	NA
+OTU216	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	NA	NA
+OTU217	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU218	Fungi	Basidiomycota	Agaricomycetes	Russulales	Peniophoraceae	Entomocorticium	NA
+OTU219	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU220	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU221	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	NA
+OTU222	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU223	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	Naganishia randhawae
+OTU224	Fungi	NA	NA	NA	NA	NA	NA
+OTU225	Fungi	NA	NA	NA	NA	NA	NA
+OTU226	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU227	Fungi	NA	NA	NA	NA	NA	NA
+OTU228	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU229	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	Lophiostoma	NA
+OTU230	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU231	Fungi	Ascomycota	Lecanoromycetes	Lecideales	Lecideaceae	Lecidea	Lecidea cancriformis
+OTU232	Fungi	NA	NA	NA	NA	NA	NA
+OTU233	Fungi	NA	NA	NA	NA	NA	NA
+OTU234	Fungi	NA	NA	NA	NA	NA	NA
+OTU235	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	NA	NA
+OTU236	Fungi	NA	NA	NA	NA	NA	NA
+OTU237	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU238	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	NA
+OTU239	Fungi	NA	NA	NA	NA	NA	NA
+OTU240	Fungi	NA	NA	NA	NA	NA	NA
+OTU241	Fungi	NA	NA	NA	NA	NA	NA
+OTU242	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	Cladosporium	Cladosporium herbarum
+OTU243	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU244	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU245	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	Pyrenophora biseptata
+OTU246	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU247	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU248	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU249	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU250	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU251	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU252	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	NA	NA
+OTU253	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	NA	NA
+OTU254	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	Curvularia lunata
+OTU256	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Torulaceae	Torula	NA
+OTU257	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Periconiaceae	Periconia	NA
+OTU258	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	NA
+OTU259	Fungi	NA	NA	NA	NA	NA	NA
+OTU260	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU261	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU262	Fungi	NA	NA	NA	NA	NA	NA
+OTU263	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Comoclathris	NA
+OTU264	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU265	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU266	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU267	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU268	Fungi	NA	NA	NA	NA	NA	NA
+OTU270	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	Sporobolomyces oryzicola
+OTU271	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU272	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	Curvibasidium	NA
+OTU273	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	NA
+OTU274	Fungi	NA	NA	NA	NA	NA	NA
+OTU275	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU276	Fungi	NA	NA	NA	NA	NA	NA
+OTU277	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothideaceae	Celosporium	NA
+OTU278	Fungi	NA	NA	NA	NA	NA	NA
+OTU279	Fungi	NA	NA	NA	NA	NA	NA
+OTU280	Fungi	NA	NA	NA	NA	NA	NA
+OTU281	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	Acarospora	NA
+OTU282	Fungi	Chytridiomycota	NA	NA	NA	NA	NA
+OTU283	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Gibberella	Gibberella acuminata
+OTU284	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU285	Fungi	NA	NA	NA	NA	NA	NA
+OTU286	Fungi	Ascomycota	Dothideomycetes	Myriangiales	NA	NA	NA
+OTU287	Fungi	NA	NA	NA	NA	NA	NA
+OTU288	Fungi	NA	NA	NA	NA	NA	NA
+OTU289	Fungi	NA	NA	NA	NA	NA	NA
+OTU290	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Vishniacozyma	Vishniacozyma tephrensis
+OTU291	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU292	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Graphilbum	NA
+OTU293	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU294	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Evernia	Evernia prunastri
+OTU295	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	NA	NA
+OTU296	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Planistromellaceae	Ramimonilia	Ramimonilia apicalis
+OTU297	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU298	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium angulare
+OTU299	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleraceae	Genolevuria	NA
+OTU300	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU301	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	Tricharina	Tricharina praecox
+OTU302	Fungi	Basidiomycota	Agaricomycetes	Russulales	Gloeocystidiellaceae	Gloeocystidiellum	NA
+OTU303	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	NA	NA
+OTU304	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris brizae
+OTU305	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU306	Fungi	NA	NA	NA	NA	NA	NA
+OTU307	Fungi	NA	NA	NA	NA	NA	NA
+OTU308	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU309	Fungi	NA	NA	NA	NA	NA	NA
+OTU310	Fungi	NA	NA	NA	NA	NA	NA
+OTU311	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Capnobotryella	NA
+OTU312	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU313	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU314	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Thelebolaceae	Thelebolus	Thelebolus microsporus
+OTU315	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU316	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU317	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU318	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU319	Fungi	NA	NA	NA	NA	NA	NA
+OTU320	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	NA
+OTU321	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Vishniacozyma	NA
+OTU322	Fungi	NA	NA	NA	NA	NA	NA
+OTU323	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Rasamsonia	Rasamsonia columbiensis
+OTU324	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria leptinellae
+OTU325	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+OTU327	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU328	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lentitheciaceae	NA	NA
+OTU329	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU330	Fungi	NA	NA	NA	NA	NA	NA
+OTU331	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	NA	NA	NA
+OTU332	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	Cystobasidium psychroaquaticum
+OTU333	Fungi	NA	NA	NA	NA	NA	NA
+OTU334	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU335	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Melanohalea	NA
+OTU336	Fungi	NA	NA	NA	NA	NA	NA
+OTU337	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU338	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU339	Fungi	NA	NA	NA	NA	NA	NA
+OTU340	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU341	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+OTU342	Fungi	NA	NA	NA	NA	NA	NA
+OTU343	Fungi	NA	NA	NA	NA	NA	NA
+OTU344	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Filobasidium	NA
+OTU345	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	Lophiostoma	NA
+OTU346	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU347	Fungi	NA	NA	NA	NA	NA	NA
+OTU348	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Thermomyces	Thermomyces lanuginosus
+OTU349	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Melanommataceae	Herpotrichia	Herpotrichia juniperi
+OTU350	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU351	Fungi	Ascomycota	Dothideomycetes	Dothideales	NA	NA	NA
+OTU352	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Leuconeurospora	NA
+OTU353	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU354	Fungi	NA	NA	NA	NA	NA	NA
+OTU355	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU356	Fungi	NA	NA	NA	NA	NA	NA
+OTU357	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Phaeotremellaceae	Gelidatrema	NA
+OTU358	Fungi	NA	NA	NA	NA	NA	NA
+OTU359	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA
+OTU360	Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	Blumeria	NA
+OTU361	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula mucilaginosa
+OTU362	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Sirobasidiaceae	NA	NA
+OTU363	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Kondoaceae	Bensingtonia	Bensingtonia ciliata
+OTU364	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU365	Fungi	NA	NA	NA	NA	NA	NA
+OTU366	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Piskurozymaceae	Solicoccozyma	NA
+OTU367	Fungi	NA	NA	NA	NA	NA	NA
+OTU368	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Passalora	Passalora fusimaculans
+OTU369	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	NA	NA
+OTU370	Fungi	NA	NA	NA	NA	NA	NA
+OTU371	Fungi	NA	NA	NA	NA	NA	NA
+OTU372	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU374	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU375	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU376	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU377	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	NA
+OTU378	Fungi	Ascomycota	Arthoniomycetes	NA	NA	NA	NA
+OTU379	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	Heydenia	NA
+OTU380	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU381	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU382	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU383	Fungi	NA	NA	NA	NA	NA	NA
+OTU384	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU385	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU386	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Zymoseptoria	NA
+OTU387	Fungi	NA	NA	NA	NA	NA	NA
+OTU388	Fungi	NA	NA	NA	NA	NA	NA
+OTU389	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Sordaria	NA
+OTU390	Fungi	Basidiomycota	Agaricomycetes	Geastrales	Geastraceae	Geastrum	Geastrum fuscogleba
+OTU391	Fungi	NA	NA	NA	NA	NA	NA
+OTU392	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU393	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU394	Fungi	NA	NA	NA	NA	NA	NA
+OTU395	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Elaphomycetaceae	Elaphomyces	Elaphomyces muricatus
+OTU396	Fungi	NA	NA	NA	NA	NA	NA
+OTU397	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Stachybotryaceae	Stachybotrys	NA
+OTU398	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	Tremella parmeliarum
+OTU399	Fungi	NA	NA	NA	NA	NA	NA
+OTU400	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	NA	NA
+OTU401	Fungi	NA	NA	NA	NA	NA	NA
+OTU402	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Botrytis	Botrytis cinerea
+OTU403	Fungi	Ascomycota	Lecanoromycetes	Trapeliales	Trapeliaceae	Placynthiella	Placynthiella icmalea
+OTU404	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	Acarospora	NA
+OTU405	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU406	Fungi	NA	NA	NA	NA	NA	NA
+OTU407	Fungi	Ascomycota	Dothideomycetes	Dothideales	NA	NA	NA
+OTU408	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU409	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus carbonarius
+OTU410	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU411	Fungi	NA	NA	NA	NA	NA	NA
+OTU412	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU413	Fungi	NA	NA	NA	NA	NA	NA
+OTU414	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Comoclathris	Comoclathris sedi
+OTU415	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU416	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pezizaceae	Peziza	NA
+OTU417	Fungi	NA	NA	NA	NA	NA	NA
+OTU418	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Letharia	Letharia vulpina
+OTU419	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria lolii
+OTU420	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU421	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU422	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Collophora	NA
+OTU423	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Fimetariella	Fimetariella rabenhorstii
+OTU424	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Dichomitus	NA
+OTU425	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU426	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormiella	Sporormiella australis
+OTU427	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Caliciaceae	Buellia	Buellia griseovirens
+OTU428	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU429	Fungi	Ascomycota	Lecanoromycetes	Lecideales	Lecideaceae	Lecidea	Lecidea laboriosa
+OTU430	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU431	Fungi	NA	NA	NA	NA	NA	NA
+OTU432	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU433	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Chionosphaeraceae	Chionosphaera	Chionosphaera cuniculicola
+OTU434	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU435	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	NA	NA	NA
+OTU436	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU437	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU438	Fungi	Chytridiomycota	NA	NA	NA	NA	NA
+OTU439	Fungi	NA	NA	NA	NA	NA	NA
+OTU440	Fungi	NA	NA	NA	NA	NA	NA
+OTU441	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU442	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+OTU443	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU444	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU445	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU446	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU447	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU448	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU450	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces	NA
+OTU451	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU452	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Chaetosphaeronema	NA
+OTU453	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU454	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU455	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU456	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+OTU457	Fungi	NA	NA	NA	NA	NA	NA
+OTU458	Fungi	NA	NA	NA	NA	NA	NA
+OTU459	Fungi	Ascomycota	Sordariomycetes	Microascales	Graphiaceae	NA	NA
+OTU460	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Ogataea	Ogataea pini
+OTU461	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium brachygibbosum
+OTU462	Fungi	NA	NA	NA	NA	NA	NA
+OTU463	Fungi	NA	NA	NA	NA	NA	NA
+OTU464	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU466	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora minutissima
+OTU467	Fungi	NA	NA	NA	NA	NA	NA
+OTU468	Fungi	NA	NA	NA	NA	NA	NA
+OTU469	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU470	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU471	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU472	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Melanommataceae	Herpotrichia	NA
+OTU473	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU474	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Paraphoma	NA
+OTU475	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	Tremella microspora
+OTU476	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU477	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU478	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU479	Fungi	NA	NA	NA	NA	NA	NA
+OTU480	Fungi	NA	NA	NA	NA	NA	NA
+OTU481	Fungi	Basidiomycota	Agaricomycetes	Russulales	Peniophoraceae	Peniophora	NA
+OTU482	Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	NA	NA
+OTU483	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	NA	NA	NA
+OTU484	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium succineum
+OTU485	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Coriolaceae	Trametes	Trametes versicolor
+OTU487	Fungi	Ascomycota	Dothideomycetes	Myriangiales	NA	Phaeosclera	NA
+OTU488	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Yamadazyma	Yamadazyma mexicana
+OTU489	Fungi	NA	NA	NA	NA	NA	NA
+OTU490	Fungi	NA	NA	NA	NA	NA	NA
+OTU491	Fungi	NA	NA	NA	NA	NA	NA
+OTU492	Fungi	NA	NA	NA	NA	NA	NA
+OTU493	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU494	Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	NA	NA
+OTU495	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Candida	NA
+OTU496	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Ganodermataceae	Perenniporia	NA
+OTU498	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Cryptococcus	NA
+OTU499	Fungi	NA	NA	NA	NA	NA	NA
+OTU500	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU501	Fungi	NA	NA	NA	NA	NA	NA
+OTU502	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU503	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU504	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Skeletocutis	NA
+OTU506	Fungi	Basidiomycota	Cystobasidiomycetes	NA	NA	NA	NA
+OTU507	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU508	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Physciaceae	Physconia	Physconia perisidiosa
+OTU509	Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	Podosphaera	Podosphaera caricae-papayae
+OTU510	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Torulaceae	Torula	NA
+OTU511	Fungi	NA	NA	NA	NA	NA	NA
+OTU512	Fungi	NA	NA	NA	NA	NA	NA
+OTU513	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU514	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormiella	Sporormiella megalospora
+OTU515	Fungi	NA	NA	NA	NA	NA	NA
+OTU516	Fungi	NA	NA	NA	NA	NA	NA
+OTU517	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces	NA
+OTU518	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	Acarospora	NA
+OTU519	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU520	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Ophiostoma	Ophiostoma nigrocarpum
+OTU521	Fungi	NA	NA	NA	NA	NA	NA
+OTU522	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU523	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	NA	NA
+OTU524	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	Rachicladosporium	NA
+OTU525	Fungi	NA	NA	NA	NA	NA	NA
+OTU526	Fungi	Ascomycota	Lecanoromycetes	Pertusariales	Megasporaceae	NA	NA
+OTU527	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	Taphrina	NA
+OTU528	Fungi	NA	NA	NA	NA	NA	NA
+OTU529	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Pseudopithomyces	Pseudopithomyces chartarum
+OTU530	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU531	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces radicus
+OTU532	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Vishniacozyma	NA
+OTU533	Fungi	NA	NA	NA	NA	NA	NA
+OTU534	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU535	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	NA	NA	NA
+OTU536	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU537	Fungi	NA	NA	NA	NA	NA	NA
+OTU538	Fungi	NA	NA	NA	NA	NA	NA
+OTU539	Fungi	NA	NA	NA	NA	NA	NA
+OTU540	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU541	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU542	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU543	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU544	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU545	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Corticiaceae	Corticium	NA
+OTU546	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU547	Fungi	NA	NA	NA	NA	NA	NA
+OTU548	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU549	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	Tremella wirthii
+OTU550	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU551	Fungi	NA	NA	NA	NA	NA	NA
+OTU552	Fungi	NA	NA	NA	NA	NA	NA
+OTU553	Fungi	NA	NA	NA	NA	NA	NA
+OTU554	Fungi	NA	NA	NA	NA	NA	NA
+OTU555	Fungi	NA	NA	NA	NA	NA	NA
+OTU557	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	Dothiorella	NA
+OTU558	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU559	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU560	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU561	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU562	Fungi	Ascomycota	Arthoniomycetes	Lichenostigmatales	Phaeococcomycetaceae	Phaeococcomyces	Phaeococcomyces nigricans
+OTU563	Fungi	NA	NA	NA	NA	NA	NA
+OTU564	Fungi	NA	NA	NA	NA	NA	NA
+OTU565	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Physciaceae	Physconia	Physconia isidiigera
+OTU566	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala sideris
+OTU567	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleraceae	Fonsecazyma	Fonsecazyma mujuensis
+OTU568	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU569	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU570	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	NA
+OTU572	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Yamadazyma	Yamadazyma scolyti
+OTU573	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU574	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Myceliophthora	NA
+OTU575	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU577	Fungi	NA	NA	NA	NA	NA	NA
+OTU578	Fungi	NA	NA	NA	NA	NA	NA
+OTU579	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	NA	NA
+OTU580	Fungi	NA	NA	NA	NA	NA	NA
+OTU581	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	NA	NA	NA
+OTU582	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU583	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Torulaceae	Torula	NA
+OTU584	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Crocicreas	NA
+OTU585	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Elasticomyces	Elasticomyces elasticus
+OTU586	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU587	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Laetiporus	NA
+OTU588	Fungi	NA	NA	NA	NA	NA	NA
+OTU589	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA
+OTU590	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU591	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU592	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU593	Fungi	NA	NA	NA	NA	NA	NA
+OTU594	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Didymocyrtis	Didymocyrtis cladoniicola
+OTU595	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Gibellulopsis	Gibellulopsis nigrescens
+OTU596	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU597	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Thyrostroma	NA
+OTU598	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	NA
+OTU599	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	NA	NA	NA
+OTU600	Fungi	NA	NA	NA	NA	NA	NA
+OTU601	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Tetracladium	NA
+OTU602	Fungi	NA	NA	NA	NA	NA	NA
+OTU603	Fungi	NA	NA	NA	NA	NA	NA
+OTU604	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU605	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Diutina	Diutina catenulata
+OTU606	Fungi	NA	NA	NA	NA	NA	NA
+OTU607	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria penicillata
+OTU608	Fungi	Ascomycota	Lecanoromycetes	Lecideales	Lecideaceae	Lecidea	NA
+OTU609	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU610	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	NA
+OTU611	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	NA
+OTU612	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Melanohalea	Melanohalea elegantula
+OTU613	Fungi	NA	NA	NA	NA	NA	NA
+OTU614	Fungi	NA	NA	NA	NA	NA	NA
+OTU615	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU617	Fungi	NA	NA	NA	NA	NA	NA
+OTU618	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	Pyrenophora seminiperda
+OTU619	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU620	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Schizothecium	Schizothecium inaequale
+OTU621	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU622	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	NA
+OTU623	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU626	Fungi	Ascomycota	Arthoniomycetes	Lichenostigmatales	Phaeococcomycetaceae	NA	NA
+OTU627	Fungi	Ascomycota	Sordariomycetes	Xylariales	Diatrypaceae	Diatrype	Diatrype prominens
+OTU629	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU630	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Pleuroascus	Pleuroascus nicholsonii
+OTU632	Fungi	NA	NA	NA	NA	NA	NA
+OTU633	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU634	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	NA	NA
+OTU635	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Periconiaceae	Periconia	NA
+OTU636	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Corticiaceae	Marchandiobasidium	Marchandiobasidium aurantiacum
+OTU637	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU638	Fungi	NA	NA	NA	NA	NA	NA
+OTU639	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	NA
+OTU640	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU641	Fungi	NA	NA	NA	NA	NA	NA
+OTU642	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Vishniacozyma	NA
+OTU643	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakiaceae	Udeniomyces	Udeniomyces puniceus
+OTU644	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU645	Fungi	Ascomycota	Sordariomycetes	Xylariales	NA	NA	NA
+OTU646	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU647	Fungi	NA	NA	NA	NA	NA	NA
+OTU648	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU649	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU650	Fungi	NA	NA	NA	NA	NA	NA
+OTU651	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU652	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU653	Fungi	Ascomycota	Lecanoromycetes	NA	NA	Sarea	Sarea resinae
+OTU654	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU655	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU656	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU657	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU658	Fungi	NA	NA	NA	NA	NA	NA
+OTU659	Fungi	NA	NA	NA	NA	NA	NA
+OTU660	Fungi	NA	NA	NA	NA	NA	NA
+OTU661	Fungi	NA	NA	NA	NA	NA	NA
+OTU662	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakiaceae	NA	NA
+OTU663	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	Curvularia inaequalis
+OTU664	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Scytalidium	Scytalidium lignicola
+OTU665	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	Cryptococcus flavus
+OTU666	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU667	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora decipiens
+OTU668	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU669	Fungi	NA	NA	NA	NA	NA	NA
+OTU671	Fungi	Basidiomycota	Agaricomycetes	Russulales	Bondarzewiaceae	Heterobasidion	NA
+OTU672	Fungi	Ascomycota	Pezizomycetes	Pezizales	NA	NA	NA
+OTU673	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU674	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Entolomataceae	Entoloma	Entoloma halophilum
+OTU675	Fungi	NA	NA	NA	NA	NA	NA
+OTU676	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU677	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	NA	NA
+OTU678	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Drechslera	NA
+OTU679	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	Tremella encephala
+OTU680	Fungi	NA	NA	NA	NA	NA	NA
+OTU681	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU682	Fungi	NA	NA	NA	NA	NA	NA
+OTU683	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU684	Fungi	NA	NA	NA	NA	NA	NA
+OTU685	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU686	Fungi	Ascomycota	Lecanoromycetes	Umbilicariales	Umbilicariaceae	Fulgidea	Fulgidea sierrae
+OTU687	Fungi	Ascomycota	Taphrinomycetes	NA	NA	NA	NA
+OTU689	Fungi	Ascomycota	Dothideomycetes	Venturiales	NA	NA	NA
+OTU690	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	Curvibasidium	NA
+OTU691	Fungi	NA	NA	NA	NA	NA	NA
+OTU692	Rhizaria	Cercozoa	NA	NA	NA	NA	NA
+OTU693	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	Sigarispora	NA
+OTU694	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU695	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU696	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Atheliaceae	Athelia	NA
+OTU697	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU698	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	NA	NA
+OTU701	Fungi	NA	NA	NA	NA	NA	NA
+OTU702	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU703	Fungi	NA	NA	NA	NA	NA	NA
+OTU704	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Ganodermataceae	Donkioporia	Donkioporia expansa
+OTU705	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU706	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU707	Fungi	NA	NA	NA	NA	NA	NA
+OTU708	Fungi	Basidiomycota	Cystobasidiomycetes	NA	Buckleyzymaceae	Buckleyzyma	Buckleyzyma salicina
+OTU709	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU710	Fungi	NA	NA	NA	NA	NA	NA
+OTU711	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	NA	NA
+OTU712	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU713	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU714	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU715	Fungi	NA	NA	NA	NA	NA	NA
+OTU716	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU717	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Ganodermataceae	Ganoderma	Ganoderma applanatum
+OTU718	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Lecanoraceae	Carbonea	NA
+OTU720	Fungi	Ascomycota	Lecanoromycetes	Teloschistales	Teloschistaceae	Polycauliona	Polycauliona polycarpa
+OTU721	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	NA	NA
+OTU722	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU723	Fungi	NA	NA	NA	NA	NA	NA
+OTU724	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU725	Fungi	NA	NA	NA	NA	NA	NA
+OTU726	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	Mortierella elongata
+OTU727	Fungi	NA	NA	NA	NA	NA	NA
+OTU728	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	NA	NA
+OTU729	Fungi	NA	NA	NA	NA	NA	NA
+OTU730	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Occultifur	NA
+OTU731	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU732	Fungi	NA	NA	NA	NA	NA	NA
+OTU733	Fungi	NA	NA	NA	NA	NA	NA
+OTU734	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Laetiporus	Laetiporus sulphureus
+OTU735	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	NA
+OTU737	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	NA
+OTU738	Fungi	Ascomycota	Sordariomycetes	Trichosphaeriales	Trichosphaeriaceae	Nigrospora	Nigrospora oryzae
+OTU740	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU741	Fungi	NA	NA	NA	NA	NA	NA
+OTU742	Fungi	NA	NA	NA	NA	NA	NA
+OTU743	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU744	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Placidium	Placidium lacinulatum var erythrostratum
+OTU745	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	Beauveria bassiana
+OTU746	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	NA	NA
+OTU747	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	NA	NA	NA
+OTU748	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	NA	NA
+OTU749	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU750	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU751	Fungi	NA	NA	NA	NA	NA	NA
+OTU752	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU753	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Teichosporaceae	Teichospora	Teichospora pusilla
+OTU754	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula diobovata
+OTU755	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU756	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU757	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU758	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	NA
+OTU759	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU760	Fungi	NA	NA	NA	NA	NA	NA
+OTU761	Fungi	Ascomycota	Sordariomycetes	Xylariales	Diatrypaceae	Diatrype	Diatrype stigma
+OTU762	Fungi	NA	NA	NA	NA	NA	NA
+OTU763	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	NA	NA
+OTU764	Fungi	NA	NA	NA	NA	NA	NA
+OTU765	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	NA	Minimedusa	NA
+OTU766	Fungi	NA	NA	NA	NA	NA	NA
+OTU767	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU768	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	NA
+OTU769	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Parmastomyces	Parmastomyces corticola
+OTU770	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU771	Fungi	NA	NA	NA	NA	NA	NA
+OTU772	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU773	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Stachybotryaceae	NA	NA
+OTU774	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Schizoparmaceae	Coniella	Coniella fragariae
+OTU775	Fungi	NA	NA	NA	NA	NA	NA
+OTU776	Fungi	NA	NA	NA	NA	NA	NA
+OTU777	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU778	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Pseudotaeniolina	Pseudotaeniolina globosa
+OTU779	Fungi	NA	NA	NA	NA	NA	NA
+OTU780	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Periconiaceae	NA	NA
+OTU781	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU782	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+OTU783	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU784	Fungi	NA	NA	NA	NA	NA	NA
+OTU785	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU787	Fungi	NA	NA	NA	NA	NA	NA
+OTU788	Fungi	Ascomycota	Dothideomycetes	Myriangiales	Myriangiaceae	Myriangium	Myriangium hispanicum
+OTU789	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU790	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	NA	NA
+OTU792	Fungi	NA	NA	NA	NA	NA	NA
+OTU793	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	NA
+OTU794	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	Paraleptosphaeria	Paraleptosphaeria dryadis
+OTU795	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU796	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	NA	NA
+OTU797	Fungi	Ascomycota	Sordariomycetes	Xylariales	Xylariaceae	Anthostomella	Anthostomella pinea
+OTU798	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU799	Fungi	NA	NA	NA	NA	NA	NA
+OTU800	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU801	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Caliciaceae	Buellia	NA
+OTU802	Fungi	NA	NA	NA	NA	NA	NA
+OTU803	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU804	Fungi	NA	NA	NA	NA	NA	NA
+OTU805	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Entolomataceae	Entoloma	NA
+OTU806	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU807	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU808	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	NA
+OTU809	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU810	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU811	Fungi	NA	NA	NA	NA	NA	NA
+OTU812	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Exserohilum	NA
+OTU813	Fungi	NA	NA	NA	NA	NA	NA
+OTU814	Fungi	Basidiomycota	Agaricomycetes	Russulales	NA	NA	NA
+OTU815	Fungi	Basidiomycota	Agaricomycetes	Russulales	Stereaceae	Stereum	NA
+OTU816	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU817	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU818	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothideaceae	Celosporium	NA
+OTU819	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU820	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU821	Fungi	NA	NA	NA	NA	NA	NA
+OTU822	Fungi	NA	NA	NA	NA	NA	NA
+OTU823	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces rugulosus
+OTU824	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU825	Fungi	NA	NA	NA	NA	NA	NA
+OTU826	Fungi	NA	NA	NA	NA	NA	NA
+OTU827	Fungi	NA	NA	NA	NA	NA	NA
+OTU828	Fungi	NA	NA	NA	NA	NA	NA
+OTU829	Fungi	Basidiomycota	Cystobasidiomycetes	NA	Buckleyzymaceae	Buckleyzyma	NA
+OTU830	Fungi	NA	NA	NA	NA	NA	NA
+OTU832	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Piskurozymaceae	Solicoccozyma	Solicoccozyma terricola
+OTU833	Fungi	NA	NA	NA	NA	NA	NA
+OTU834	Fungi	NA	NA	NA	NA	NA	NA
+OTU835	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU836	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU837	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Plectosphaerella	NA
+OTU838	Fungi	NA	NA	NA	NA	NA	NA
+OTU839	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU840	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Placidium	Placidium lacinulatum
+OTU841	Fungi	NA	NA	NA	NA	NA	NA
+OTU842	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Rhynchogastremataceae	Papiliotrema	NA
+OTU843	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU844	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU845	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU846	Fungi	Basidiomycota	Agaricomycetes	Agaricales	NA	NA	NA
+OTU847	Fungi	NA	NA	NA	NA	NA	NA
+OTU848	Fungi	Mucoromycota	NA	NA	NA	NA	NA
+OTU849	Fungi	NA	NA	NA	NA	NA	NA
+OTU850	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Agaricus	Agaricus deserticola
+OTU852	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus japonicus
+OTU853	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Thielavia	NA
+OTU854	Fungi	NA	NA	NA	NA	NA	NA
+OTU855	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU856	Fungi	NA	NA	NA	NA	NA	NA
+OTU857	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Protomycetaceae	Protomyces	NA
+OTU858	Fungi	NA	NA	NA	NA	NA	NA
+OTU859	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	Pyrenophora seminiperda
+OTU860	Fungi	NA	NA	NA	NA	NA	NA
+OTU861	Fungi	NA	NA	NA	NA	NA	NA
+OTU862	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	NA
+OTU863	Fungi	NA	NA	NA	NA	NA	NA
+OTU864	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU865	Fungi	Basidiomycota	Agaricomycetes	Russulales	Stereaceae	Acanthophysellum	NA
+OTU866	Fungi	Basidiomycota	Microbotryomycetes	Leucosporidiales	Leucosporidiaceae	Leucosporidium	Leucosporidium intermedium
+OTU867	Fungi	NA	NA	NA	NA	NA	NA
+OTU868	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU869	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU870	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU871	Fungi	NA	NA	NA	NA	NA	NA
+OTU872	Fungi	NA	NA	NA	NA	NA	NA
+OTU873	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Protomycetaceae	Protomyces	NA
+OTU874	Fungi	NA	NA	NA	NA	NA	NA
+OTU875	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Gelatoporia	Gelatoporia subvermispora
+OTU876	Fungi	NA	NA	NA	NA	NA	NA
+OTU877	Fungi	Ascomycota	Dothideomycetes	Dothideales	NA	NA	NA
+OTU878	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	Phoma eupyrena
+OTU879	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU880	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakiaceae	Tausonia	Tausonia pamirica
+OTU881	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Cryptococcus	NA
+OTU882	Fungi	NA	NA	NA	NA	NA	NA
+OTU883	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU884	Fungi	NA	NA	NA	NA	NA	NA
+OTU885	Fungi	NA	NA	NA	NA	NA	NA
+OTU886	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU887	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU888	Fungi	NA	NA	NA	NA	NA	NA
+OTU889	Fungi	NA	NA	NA	NA	NA	NA
+OTU890	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+OTU891	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	NA	NA
+OTU892	Fungi	NA	NA	NA	NA	NA	NA
+OTU893	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU894	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Dichomitus	NA
+OTU895	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU896	Fungi	NA	NA	NA	NA	NA	NA
+OTU897	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA
+OTU899	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Rhinocladiella	Rhinocladiella atrovirens
+OTU900	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU901	Fungi	Basidiomycota	Agaricomycetes	Geastrales	Geastraceae	Schenella	NA
+OTU902	Fungi	NA	NA	NA	NA	NA	NA
+OTU903	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Lectera	NA
+OTU904	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Kuraishia	Kuraishia capsulata
+OTU905	Fungi	NA	NA	NA	NA	NA	NA
+OTU906	Fungi	Ascomycota	Dothideomycetes	Venturiales	NA	NA	NA
+OTU907	Fungi	NA	NA	NA	NA	NA	NA
+OTU908	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU909	Fungi	NA	NA	NA	NA	NA	NA
+OTU910	Fungi	Olpidiomycota	NA	NA	NA	NA	NA
+OTU911	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Coniothyriaceae	Coniothyrium	NA
+OTU912	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU913	Fungi	Ascomycota	Dothideomycetes	Tubeufiales	NA	NA	NA
+OTU914	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU915	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU916	Fungi	Basidiomycota	Microbotryomycetes	NA	Chrysozymaceae	Sampaiozyma	NA
+OTU917	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU918	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU919	Fungi	Ascomycota	Lecanoromycetes	Trapeliales	Trapeliaceae	Trapeliopsis	Trapeliopsis californica
+OTU920	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phanerochaete	NA
+OTU921	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporidiobolus	Sporidiobolus pararoseus
+OTU922	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU923	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	NA
+OTU924	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Torulaceae	Dendryphion	Dendryphion nanum
+OTU925	Fungi	NA	NA	NA	NA	NA	NA
+OTU926	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU927	Fungi	NA	NA	NA	NA	NA	NA
+OTU928	Fungi	NA	NA	NA	NA	NA	NA
+OTU929	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU930	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	NA
+OTU931	Fungi	Ascomycota	Dothideomycetes	Venturiales	NA	NA	NA
+OTU932	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	Lophiopoacea	Lophiopoacea winteri
+OTU933	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Entolomataceae	Clitopilus	Clitopilus hobsonii
+OTU934	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU935	Fungi	Ascomycota	Dothideomycetes	Venturiales	NA	NA	NA
+OTU936	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	Preussia africana
+OTU937	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU938	Fungi	NA	NA	NA	NA	NA	NA
+OTU939	Fungi	NA	NA	NA	NA	NA	NA
+OTU940	Fungi	NA	NA	NA	NA	NA	NA
+OTU941	Fungi	NA	NA	NA	NA	NA	NA
+OTU942	Fungi	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	NA
+OTU943	Fungi	Ascomycota	Sordariomycetes	Chaetosphaeriales	NA	NA	NA
+OTU944	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU945	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Neocamarosporium	Neocamarosporium goegapense
+OTU946	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	Geopyxis	NA
+OTU947	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Chionosphaeraceae	Kurtzmanomyces	NA
+OTU948	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Torulaceae	Torula	NA
+OTU949	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU950	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	Acarospora	NA
+OTU951	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU952	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU953	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU954	Fungi	NA	NA	NA	NA	NA	NA
+OTU955	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU956	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Pseudeurotium	NA
+OTU957	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU958	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Trimorphomycetaceae	Saitozyma	NA
+OTU959	Fungi	NA	NA	NA	NA	NA	NA
+OTU960	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+OTU961	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	Scutellinia	NA
+OTU962	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU963	Fungi	NA	NA	NA	NA	NA	NA
+OTU964	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU965	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU966	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria chlamydospora
+OTU967	Fungi	NA	NA	NA	NA	NA	NA
+OTU968	Fungi	NA	NA	NA	NA	NA	NA
+OTU969	Fungi	NA	NA	NA	NA	NA	NA
+OTU970	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	NA	NA
+OTU971	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU972	Fungi	NA	NA	NA	NA	NA	NA
+OTU974	Fungi	Ascomycota	Dothideomycetes	Mytilinidales	Gloniaceae	Cenococcum	Cenococcum geophilum
+OTU975	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria chlamydosporigena
+OTU976	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU977	Fungi	NA	NA	NA	NA	NA	NA
+OTU978	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU979	Fungi	Ascomycota	Lecanoromycetes	Pertusariales	Megasporaceae	NA	NA
+OTU980	Fungi	Ascomycota	Leotiomycetes	Helotiales	Rutstroemiaceae	Lambertella	NA
+OTU981	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Ascochyta	NA
+OTU982	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU983	Fungi	NA	NA	NA	NA	NA	NA
+OTU984	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Paraphoma	NA
+OTU985	Fungi	NA	NA	NA	NA	NA	NA
+OTU986	Fungi	NA	NA	NA	NA	NA	NA
+OTU987	Fungi	Ascomycota	Leotiomycetes	Helotiales	Vibrisseaceae	Phialocephala	Phialocephala dimorphospora
+OTU988	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodosporidiobolus	Rhodosporidiobolus odoratus
+OTU989	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU990	Fungi	NA	NA	NA	NA	NA	NA
+OTU991	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU992	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Stagonosporopsis	Stagonosporopsis heliopsidis
+OTU993	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phlebia	Phlebia centrifuga
+OTU994	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+OTU995	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris brizae
+OTU996	Fungi	NA	NA	NA	NA	NA	NA
+OTU997	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU998	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU999	Fungi	NA	NA	NA	NA	NA	NA
+OTU1000	Fungi	NA	NA	NA	NA	NA	NA
+OTU1001	Fungi	NA	NA	NA	NA	NA	NA
+OTU1002	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	NA	NA
+OTU1004	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Cystofilobasidium	Cystofilobasidium capitatum
+OTU1005	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Myxozyma	Myxozyma melibiosi
+OTU1006	Fungi	NA	NA	NA	NA	NA	NA
+OTU1007	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1008	Fungi	NA	NA	NA	NA	NA	NA
+OTU1009	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU1010	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1011	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Paraphaeosphaeria	NA
+OTU1012	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodosporidiobolus	Rhodosporidiobolus colostri
+OTU1013	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Pseudogymnoascus	NA
+OTU1014	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU1015	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1016	Fungi	NA	NA	NA	NA	NA	NA
+OTU1017	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1019	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Valsaceae	Phomopsis	Phomopsis quercina
+OTU1020	Fungi	NA	NA	NA	NA	NA	NA
+OTU1021	Rhizaria	NA	NA	NA	NA	NA	NA
+OTU1022	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	NA
+OTU1023	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	NA	NA
+OTU1024	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1025	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU1026	Fungi	Ascomycota	Leotiomycetes	Helotiales	Myxotrichaceae	Oidiodendron	NA
+OTU1027	Fungi	NA	NA	NA	NA	NA	NA
+OTU1028	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1029	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU1030	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU1031	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU1032	Fungi	NA	NA	NA	NA	NA	NA
+OTU1033	Fungi	Ascomycota	Sordariomycetes	Microascales	Halosphaeriaceae	NA	NA
+OTU1034	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1035	Fungi	NA	NA	NA	NA	NA	NA
+OTU1036	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1037	Fungi	NA	NA	NA	NA	NA	NA
+OTU1038	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Paecilomyces	Paecilomyces formosa
+OTU1039	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1040	Fungi	Ascomycota	Lecanoromycetes	Candelariales	Candelariaceae	Candelaria	Candelaria pacifica
+OTU1041	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1042	Fungi	Basidiomycota	Agaricomycetes	Russulales	Bondarzewiaceae	Heterobasidion	NA
+OTU1043	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	Lophiostoma	NA
+OTU1044	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1045	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria solani
+OTU1046	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Mycenastraceae	Mycenastrum	Mycenastrum corium
+OTU1047	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1048	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium	NA
+OTU1049	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Trimorphomycetaceae	Saitozyma	Saitozyma podzolica
+OTU1051	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1052	Fungi	NA	NA	NA	NA	NA	NA
+OTU1053	Fungi	NA	NA	NA	NA	NA	NA
+OTU1054	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Vishniacozyma	Vishniacozyma globispora
+OTU1055	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU1056	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1057	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cuniculitrema	Cuniculitrema polymorpha
+OTU1058	Fungi	NA	NA	NA	NA	NA	NA
+OTU1059	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1060	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Paecilomyces	Paecilomyces penicillatus
+OTU1061	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium vanoranjei
+OTU1062	Fungi	NA	NA	NA	NA	NA	NA
+OTU1063	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Physciaceae	Phaeophyscia	NA
+OTU1064	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium murcianum
+OTU1065	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+OTU1066	Fungi	NA	NA	NA	NA	NA	NA
+OTU1067	Fungi	NA	NA	NA	NA	NA	NA
+OTU1068	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+OTU1069	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1070	Fungi	NA	NA	NA	NA	NA	NA
+OTU1071	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1072	Fungi	NA	NA	NA	NA	NA	NA
+OTU1073	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Geosmithia	NA
+OTU1074	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Valsaceae	NA	NA
+OTU1075	Fungi	NA	NA	NA	NA	NA	NA
+OTU1076	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Skeletocutis	Skeletocutis chrysella
+OTU1077	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1078	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1079	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1080	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1081	Fungi	NA	NA	NA	NA	NA	NA
+OTU1083	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU1084	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1085	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium delphinoides
+OTU1086	Fungi	NA	NA	NA	NA	NA	NA
+OTU1087	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Guehomyces	NA
+OTU1088	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1089	Fungi	NA	NA	NA	NA	NA	NA
+OTU1090	Fungi	NA	NA	NA	NA	NA	NA
+OTU1091	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Onygenaceae	Aphanoascus	Aphanoascus keratinophilus
+OTU1092	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1093	Fungi	Basidiomycota	Pucciniomycetes	NA	NA	NA	NA
+OTU1094	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1095	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus fumigatus
+OTU1096	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	NA
+OTU1097	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU1098	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1099	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1100	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1101	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU1102	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1103	Fungi	NA	NA	NA	NA	NA	NA
+OTU1104	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	NA
+OTU1105	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1106	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1107	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	NA
+OTU1108	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1109	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1110	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1111	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1112	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothideaceae	Cylindroseptoria	Cylindroseptoria ceratoniae
+OTU1114	Fungi	NA	NA	NA	NA	NA	NA
+OTU1115	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1116	Fungi	NA	NA	NA	NA	NA	NA
+OTU1117	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU1118	Fungi	Ascomycota	Leotiomycetes	Helotiales	Dermateaceae	Mollisia	Mollisia cinerea
+OTU1119	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU1120	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1121	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Cosmospora	Cosmospora viridescens
+OTU1122	Fungi	NA	NA	NA	NA	NA	NA
+OTU1123	Fungi	NA	NA	NA	NA	NA	NA
+OTU1124	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Trichomeriaceae	Knufia	Knufia marmoricola
+OTU1125	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1126	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	NA	NA
+OTU1127	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1128	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	NA	NA
+OTU1129	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1130	Fungi	NA	NA	NA	NA	NA	NA
+OTU1131	Fungi	NA	NA	NA	NA	NA	NA
+OTU1132	Fungi	NA	NA	NA	NA	NA	NA
+OTU1133	Fungi	NA	NA	NA	NA	NA	NA
+OTU1134	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	Naganishia bhutanensis
+OTU1135	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Stylonectria	Stylonectria purtonii
+OTU1136	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Vuilleminiaceae	NA	NA
+OTU1137	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1138	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Graphilbum	NA
+OTU1139	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Cryptococcus	NA
+OTU1140	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1141	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1142	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1143	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	NA
+OTU1144	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Ceratocystiopsis	NA
+OTU1145	Fungi	NA	NA	NA	NA	NA	NA
+OTU1146	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1147	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1148	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Torulaceae	NA	NA
+OTU1149	Fungi	NA	NA	NA	NA	NA	NA
+OTU1150	Fungi	NA	NA	NA	NA	NA	NA
+OTU1151	Fungi	NA	NA	NA	NA	NA	NA
+OTU1152	Fungi	NA	NA	NA	NA	NA	NA
+OTU1153	Fungi	Ascomycota	Sordariomycetes	Xylariales	Diatrypaceae	Diatrype	NA
+OTU1154	Fungi	NA	NA	NA	NA	NA	NA
+OTU1155	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Lycoperdaceae	Bovista	Bovista pusilla
+OTU1156	Fungi	NA	NA	NA	NA	NA	NA
+OTU1157	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1158	Fungi	Ascomycota	Sordariomycetes	Xylariales	Bartaliniaceae	Truncatella	Truncatella angustata
+OTU1159	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus subsessilis
+OTU1161	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	NA
+OTU1162	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	NA
+OTU1163	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1164	Fungi	Ascomycota	Sordariomycetes	Xylariales	Xylariaceae	Clypeosphaeria	NA
+OTU1165	Fungi	NA	NA	NA	NA	NA	NA
+OTU1166	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Oleoguttula	NA
+OTU1167	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1168	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Articulospora	NA
+OTU1169	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Juncaceicola	Juncaceicola typharum
+OTU1171	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1172	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Tolypocladium	Tolypocladium pustulatum
+OTU1174	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	NA
+OTU1175	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Hygrophorus	NA
+OTU1176	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1177	Fungi	NA	NA	NA	NA	NA	NA
+OTU1178	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothideaceae	Dothidea	Dothidea insculpta
+OTU1179	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1180	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	NA
+OTU1181	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1182	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Microcera	NA
+OTU1183	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1184	Fungi	Olpidiomycota	NA	NA	NA	NA	NA
+OTU1185	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phlebia	NA
+OTU1186	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	NA
+OTU1187	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1188	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1189	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Humicola	Humicola fuscoatra
+OTU1190	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Ganodermataceae	Ganoderma	Ganoderma lucidum
+OTU1191	Fungi	Basidiomycota	Agaricomycetes	Boletales	Pisolithaceae	Pisolithus	NA
+OTU1192	Fungi	NA	NA	NA	NA	NA	NA
+OTU1193	Fungi	NA	NA	NA	NA	NA	NA
+OTU1194	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU1195	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	Kabatina	NA
+OTU1196	Fungi	NA	NA	NA	NA	NA	NA
+OTU1198	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	NA	NA
+OTU1199	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	Mortierella reticulata
+OTU1200	Fungi	NA	NA	NA	NA	NA	NA
+OTU1202	Fungi	NA	NA	NA	NA	NA	NA
+OTU1203	Fungi	NA	NA	NA	NA	NA	NA
+OTU1204	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	NA	NA	NA
+OTU1205	Fungi	NA	NA	NA	NA	NA	NA
+OTU1206	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1207	Fungi	NA	NA	NA	NA	NA	NA
+OTU1208	Fungi	NA	NA	NA	NA	NA	NA
+OTU1209	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1210	Fungi	NA	NA	NA	NA	NA	NA
+OTU1211	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+OTU1213	Fungi	NA	NA	NA	NA	NA	NA
+OTU1214	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU1216	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Piskurozymaceae	Piskurozyma	Piskurozyma capsuligena
+OTU1217	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+OTU1218	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1219	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	NA	NA
+OTU1220	Fungi	Basidiomycota	Agaricomycetes	Corticiales	NA	NA	NA
+OTU1221	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	NA	NA
+OTU1222	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1223	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1224	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	NA	NA	NA
+OTU1225	Fungi	NA	NA	NA	NA	NA	NA
+OTU1226	Fungi	NA	NA	NA	NA	NA	NA
+OTU1227	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1228	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium sublectaticum
+OTU1229	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1230	Fungi	Ascomycota	Lecanoromycetes	Lecideales	Lecideaceae	Lecidea	NA
+OTU1231	Fungi	NA	NA	NA	NA	NA	NA
+OTU1232	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Tomentella	Tomentella sublilacina
+OTU1233	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	NA
+OTU1234	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1235	Fungi	NA	NA	NA	NA	NA	NA
+OTU1236	Fungi	NA	NA	NA	NA	NA	NA
+OTU1237	Fungi	Mortierellomycota	Mortierellomycetes	NA	NA	NA	NA
+OTU1238	Fungi	Ascomycota	Lecanoromycetes	Lecideales	Lecideaceae	Lecidea	Lecidea laboriosa
+OTU1239	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1240	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	Pyrenophora avenae
+OTU1241	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	Cantharellaceae	Craterellus	Craterellus tubaeformis
+OTU1242	Fungi	Ascomycota	Pezizomycetes	Pezizales	NA	NA	NA
+OTU1243	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Tomentella	NA
+OTU1244	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	NA
+OTU1245	Fungi	NA	NA	NA	NA	NA	NA
+OTU1246	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA
+OTU1248	Fungi	NA	NA	NA	NA	NA	NA
+OTU1249	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Rhodonia	Rhodonia placenta
+OTU1250	Fungi	NA	NA	NA	NA	NA	NA
+OTU1251	Fungi	NA	NA	NA	NA	NA	NA
+OTU1253	Fungi	NA	NA	NA	NA	NA	NA
+OTU1255	Fungi	NA	NA	NA	NA	NA	NA
+OTU1256	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1257	Fungi	NA	NA	NA	NA	NA	NA
+OTU1258	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+OTU1259	Fungi	NA	NA	NA	NA	NA	NA
+OTU1260	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phlebia	Phlebia livida
+OTU1261	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakiaceae	Udeniomyces	NA
+OTU1262	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Heterocephalacria	Heterocephalacria arrabidensis
+OTU1263	Fungi	NA	NA	NA	NA	NA	NA
+OTU1264	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium oxalicum
+OTU1265	Rhizaria	Cercozoa	NA	NA	NA	NA	NA
+OTU1266	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	NA
+OTU1267	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Ogataea	Ogataea glucozyma
+OTU1268	Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	Venturia	Venturia carpophila
+OTU1269	Fungi	Ascomycota	Dothideomycetes	Dothideales	Aureobasidiaceae	Kabatiella	Kabatiella harpospora
+OTU1270	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1271	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Arthrobotrys	Arthrobotrys foliicola
+OTU1272	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Ascosphaeraceae	Ascosphaera	NA
+OTU1273	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	NA
+OTU1274	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1275	Fungi	NA	NA	NA	NA	NA	NA
+OTU1276	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+OTU1277	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Trichomeriaceae	NA	NA
+OTU1279	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1280	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium quercetorum
+OTU1281	Rhizaria	NA	NA	NA	NA	NA	NA
+OTU1282	Fungi	NA	NA	NA	NA	NA	NA
+OTU1284	Fungi	NA	NA	NA	NA	NA	NA
+OTU1286	Fungi	NA	NA	NA	NA	NA	NA
+OTU1287	Fungi	NA	NA	NA	NA	NA	NA
+OTU1288	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria hungarica
+OTU1289	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU1290	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1291	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1292	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1293	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU1294	Fungi	NA	NA	NA	NA	NA	NA
+OTU1295	Fungi	NA	NA	NA	NA	NA	NA
+OTU1296	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Westerdykella	NA
+OTU1297	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	NA
+OTU1298	Fungi	NA	NA	NA	NA	NA	NA
+OTU1299	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU1300	Fungi	Basidiomycota	Wallemiomycetes	Wallemiales	Wallemiaceae	Wallemia	Wallemia mellicola
+OTU1301	Fungi	Ascomycota	Dothideomycetes	Tubeufiales	NA	NA	NA
+OTU1302	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Lycoperdaceae	Calvatia	NA
+OTU1304	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Paecilomyces	Paecilomyces formosa
+OTU1305	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1306	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1307	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	Naganishia onofrii
+OTU1308	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1309	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium roseopurpureum
+OTU1310	Fungi	Ascomycota	Sordariomycetes	Xylariales	Sporocadaceae	Pestalotiopsis	Pestalotiopsis besseyi
+OTU1311	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces minioluteus
+OTU1312	Fungi	NA	NA	NA	NA	NA	NA
+OTU1313	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	NA
+OTU1314	Fungi	NA	NA	NA	NA	NA	NA
+OTU1315	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1316	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1317	Fungi	NA	NA	NA	NA	NA	NA
+OTU1318	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1319	Fungi	NA	NA	NA	NA	NA	NA
+OTU1320	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1321	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1322	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	NA	NA
+OTU1323	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1325	Fungi	NA	NA	NA	NA	NA	NA
+OTU1326	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1327	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1328	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1329	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1330	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Pseudeurotium	NA
+OTU1332	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Lecanosticta	NA
+OTU1333	Fungi	Basidiomycota	Agaricomycetes	Trechisporales	NA	Sistotremastrum	NA
+OTU1334	Fungi	NA	NA	NA	NA	NA	NA
+OTU1335	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Obba	Obba rivulosa
+OTU1336	Fungi	NA	NA	NA	NA	NA	NA
+OTU1337	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1338	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1339	Fungi	NA	NA	NA	NA	NA	NA
+OTU1340	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Gymnoascaceae	Gymnoascus	Gymnoascus reessii
+OTU1341	Fungi	Ascomycota	Lecanoromycetes	Lecideales	Lecideaceae	Palicella	Palicella schizochromatica
+OTU1342	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Ganodermataceae	Ganoderma	NA
+OTU1343	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1344	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Montagnula	Montagnula donacina
+OTU1345	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Melanohalea	NA
+OTU1346	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Paraphoma	Paraphoma fimeti
+OTU1347	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1348	Fungi	NA	NA	NA	NA	NA	NA
+OTU1349	Fungi	NA	NA	NA	NA	NA	NA
+OTU1350	Fungi	NA	NA	NA	NA	NA	NA
+OTU1351	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Acremonium	NA
+OTU1352	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1353	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	Tremella moriformis
+OTU1354	Fungi	NA	NA	NA	NA	NA	NA
+OTU1355	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU1356	Fungi	NA	NA	NA	NA	NA	NA
+OTU1357	Fungi	NA	NA	NA	NA	NA	NA
+OTU1358	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1359	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phlebia	Phlebia tremellosa
+OTU1360	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium bostrychodes
+OTU1361	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Coniosporium	Coniosporium apollinis
+OTU1362	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Monodictys	Monodictys castaneae
+OTU1363	Fungi	NA	NA	NA	NA	NA	NA
+OTU1364	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Amorosiaceae	Angustimassarina	NA
+OTU1365	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU1366	Fungi	NA	NA	NA	NA	NA	NA
+OTU1367	Fungi	NA	NA	NA	NA	NA	NA
+OTU1368	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1369	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1370	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1371	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	Cladosporium	NA
+OTU1372	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	Wickerhamomyces hampshirensis
+OTU1373	Fungi	Ascomycota	Leotiomycetes	Helotiales	Rutstroemiaceae	NA	NA
+OTU1374	Fungi	NA	NA	NA	NA	NA	NA
+OTU1375	Fungi	NA	NA	NA	NA	NA	NA
+OTU1376	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1377	Fungi	Ascomycota	Sordariomycetes	Xylariales	Amphisphaeriaceae	NA	NA
+OTU1378	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1379	Fungi	NA	NA	NA	NA	NA	NA
+OTU1380	Fungi	NA	NA	NA	NA	NA	NA
+OTU1381	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Arachnopeziza	Arachnopeziza aurelia
+OTU1382	Fungi	NA	NA	NA	NA	NA	NA
+OTU1383	Fungi	NA	NA	NA	NA	NA	NA
+OTU1384	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria obclavata
+OTU1385	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius	Cortinarius acutus
+OTU1386	Fungi	NA	NA	NA	NA	NA	NA
+OTU1387	Fungi	NA	NA	NA	NA	NA	NA
+OTU1388	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1389	Fungi	NA	NA	NA	NA	NA	NA
+OTU1390	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	NA	NA
+OTU1391	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1392	Fungi	Basidiomycota	Agaricomycetes	Agaricales	NA	NA	NA
+OTU1393	Fungi	NA	NA	NA	NA	NA	NA
+OTU1394	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	Dothiorella	NA
+OTU1395	Fungi	NA	NA	NA	NA	NA	NA
+OTU1396	Fungi	NA	NA	NA	NA	NA	NA
+OTU1397	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Cadophora	NA
+OTU1399	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1400	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1401	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	NA
+OTU1402	Fungi	Olpidiomycota	NA	NA	NA	NA	NA
+OTU1403	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	Coniochaeta ligniaria
+OTU1404	Fungi	Olpidiomycota	Olpidiomycetes	Olpidiales	NA	NA	NA
+OTU1405	Fungi	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	NA
+OTU1406	Fungi	NA	NA	NA	NA	NA	NA
+OTU1407	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothideaceae	Dothidea	NA
+OTU1408	Fungi	NA	NA	NA	NA	NA	NA
+OTU1409	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+OTU1410	Fungi	NA	NA	NA	NA	NA	NA
+OTU1411	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU1412	Fungi	NA	NA	NA	NA	NA	NA
+OTU1414	Fungi	NA	NA	NA	NA	NA	NA
+OTU1415	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Ascosphaeraceae	Ascosphaera	NA
+OTU1416	Fungi	NA	NA	NA	NA	NA	NA
+OTU1417	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Hyphozyma	Hyphozyma variabilis
+OTU1418	Rhizaria	NA	NA	NA	NA	NA	NA
+OTU1419	Fungi	NA	NA	NA	NA	NA	NA
+OTU1420	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Coriolaceae	Trametes	Trametes hirsuta
+OTU1421	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1422	Fungi	Ascomycota	Dothideomycetes	Dothideales	Aureobasidiaceae	Aureobasidium	Aureobasidium pullulans
+OTU1423	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1424	Fungi	NA	NA	NA	NA	NA	NA
+OTU1425	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU1426	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1427	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	NA	NA
+OTU1428	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+OTU1429	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1430	Fungi	Basidiomycota	Cystobasidiomycetes	NA	Symmetrosporaceae	Symmetrospora	NA
+OTU1431	Fungi	NA	NA	NA	NA	NA	NA
+OTU1432	Fungi	NA	NA	NA	NA	NA	NA
+OTU1434	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1435	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Bolbitiaceae	Agrocybe	Agrocybe pediades
+OTU1436	Fungi	Ascomycota	Lecanoromycetes	Teloschistales	Teloschistaceae	Xanthomendoza	Xanthomendoza galericulata
+OTU1437	Fungi	NA	NA	NA	NA	NA	NA
+OTU1438	Fungi	NA	NA	NA	NA	NA	NA
+OTU1439	Fungi	NA	NA	NA	NA	NA	NA
+OTU1440	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakiaceae	NA	NA
+OTU1441	Fungi	NA	NA	NA	NA	NA	NA
+OTU1442	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	NA	NA	NA
+OTU1443	Fungi	NA	NA	NA	NA	NA	NA
+OTU1444	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU1445	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1447	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1448	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Sarocladium	Sarocladium strictum
+OTU1449	Fungi	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	NA
+OTU1450	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	Sydowia	NA
+OTU1451	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Filobasidium	NA
+OTU1452	Fungi	NA	NA	NA	NA	NA	NA
+OTU1453	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Valsaceae	Cytospora	Cytospora austromontana
+OTU1454	Fungi	Basidiomycota	Dacrymycetes	Dacrymycetales	Dacrymycetaceae	Calocera	NA
+OTU1455	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	NA	NA
+OTU1456	Fungi	NA	NA	NA	NA	NA	NA
+OTU1457	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Lycoperdaceae	Bovista	Bovista plumbea
+OTU1458	Fungi	NA	NA	NA	NA	NA	NA
+OTU1459	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1460	Fungi	NA	NA	NA	NA	NA	NA
+OTU1461	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU1462	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Stachybotryaceae	Stachybotrys	Stachybotrys renispora
+OTU1463	Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	NA	NA	NA
+OTU1464	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	Plenodomus	Plenodomus biglobosus
+OTU1465	Fungi	NA	NA	NA	NA	NA	NA
+OTU1466	Fungi	NA	NA	NA	NA	NA	NA
+OTU1467	Fungi	NA	NA	NA	NA	NA	NA
+OTU1468	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	NA	NA
+OTU1469	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1470	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1471	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU1472	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1473	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1474	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1475	Rhizaria	Cercozoa	NA	NA	NA	NA	NA
+OTU1476	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	NA	NA
+OTU1477	Fungi	NA	NA	NA	NA	NA	NA
+OTU1478	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1479	Fungi	Basidiomycota	Agaricomycetes	Russulales	Peniophoraceae	Peniophora	Peniophora cinerea
+OTU1480	Fungi	NA	NA	NA	NA	NA	NA
+OTU1481	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1482	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Epicoccum	Epicoccum pimprinum
+OTU1483	Fungi	Basidiomycota	Cystobasidiomycetes	Erythrobasidiales	Erythrobasidiaceae	Erythrobasidium	NA
+OTU1484	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phanerochaete	Phanerochaete sordida
+OTU1485	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1486	Fungi	NA	NA	NA	NA	NA	NA
+OTU1487	Fungi	NA	NA	NA	NA	NA	NA
+OTU1488	Fungi	Ascomycota	Pezizomycetes	Pezizales	NA	NA	NA
+OTU1489	Fungi	NA	NA	NA	NA	NA	NA
+OTU1491	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Stachybotryaceae	Albifimbria	NA
+OTU1492	Fungi	NA	NA	NA	NA	NA	NA
+OTU1493	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1494	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+OTU1495	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+OTU1496	Fungi	NA	NA	NA	NA	NA	NA
+OTU1497	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Caliciaceae	Thelomma	Thelomma ocellatum
+OTU1498	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1499	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Xenasmataceae	Phlebiella	NA
+OTU1500	Fungi	NA	NA	NA	NA	NA	NA
+OTU1501	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Lapidomyces	Lapidomyces hispanicus
+OTU1502	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1503	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1504	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1505	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Stachybotryaceae	NA	NA
+OTU1506	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Pleurotaceae	Pleurotus	Pleurotus pulmonarius
+OTU1507	Fungi	NA	NA	NA	NA	NA	NA
+OTU1508	Fungi	NA	NA	NA	NA	NA	NA
+OTU1509	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1510	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Paraphoma	NA
+OTU1511	Fungi	Ascomycota	Sordariomycetes	Xylariales	Diatrypaceae	Cryptovalsa	Cryptovalsa ampelina
+OTU1512	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Periconiaceae	Periconia	Periconia macrospinosa
+OTU1513	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1514	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1515	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Hydropisphaera	NA
+OTU1517	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	NA	NA	NA
+OTU1518	Fungi	NA	NA	NA	NA	NA	NA
+OTU1519	Fungi	NA	NA	NA	NA	NA	NA
+OTU1520	Fungi	NA	NA	NA	NA	NA	NA
+OTU1521	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1522	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA
+OTU1523	Fungi	NA	NA	NA	NA	NA	NA
+OTU1524	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1525	Fungi	Basidiomycota	Agaricomycetes	Trechisporales	NA	Sistotremastrum	NA
+OTU1526	Fungi	NA	NA	NA	NA	NA	NA
+OTU1527	Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	Schizoporaceae	Oxyporus	Oxyporus subpopulinus
+OTU1528	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1529	Fungi	NA	NA	NA	NA	NA	NA
+OTU1530	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1531	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Physciaceae	NA	NA
+OTU1532	Fungi	NA	NA	NA	NA	NA	NA
+OTU1533	Fungi	Ascomycota	Dothideomycetes	Myriangiales	NA	NA	NA
+OTU1534	Fungi	NA	NA	NA	NA	NA	NA
+OTU1535	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Pseudeurotium	NA
+OTU1536	Fungi	NA	NA	NA	NA	NA	NA
+OTU1537	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1538	Fungi	NA	NA	NA	NA	NA	NA
+OTU1539	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Diutina	Diutina rugosa
+OTU1540	Fungi	Basidiomycota	Microbotryomycetes	NA	Chrysozymaceae	Trigonosporomyces	NA
+OTU1541	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Leptosphaerulina	Leptosphaerulina australis
+OTU1542	Fungi	NA	NA	NA	NA	NA	NA
+OTU1543	Fungi	NA	NA	NA	NA	NA	NA
+OTU1544	Fungi	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	NA
+OTU1545	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1546	Fungi	Chytridiomycota	Rhizophlyctidomycetes	Rhizophlyctidales	Rhizophlyctidaceae	Rhizophlyctis	NA
+OTU1547	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1548	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA
+OTU1549	Fungi	NA	NA	NA	NA	NA	NA
+OTU1550	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	NA	NA
+OTU1551	Fungi	NA	NA	NA	NA	NA	NA
+OTU1552	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1553	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus asperescens
+OTU1554	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Stemphylium	Stemphylium vesicarium
+OTU1555	Fungi	Basidiomycota	Cystobasidiomycetes	NA	Symmetrosporaceae	Symmetrospora	NA
+OTU1556	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces	NA
+OTU1557	Fungi	NA	NA	NA	NA	NA	NA
+OTU1558	Fungi	NA	NA	NA	NA	NA	NA
+OTU1560	Fungi	Basidiomycota	Agaricomycetes	Corticiales	NA	NA	NA
+OTU1561	Fungi	NA	NA	NA	NA	NA	NA
+OTU1562	Fungi	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	Rhizopogon brunneiniger
+OTU1563	Fungi	NA	NA	NA	NA	NA	NA
+OTU1564	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	NA
+OTU1565	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1566	Fungi	NA	NA	NA	NA	NA	NA
+OTU1567	Fungi	NA	NA	NA	NA	NA	NA
+OTU1568	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1569	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Heyderia	Heyderia abietis
+OTU1570	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU1571	Fungi	Basidiomycota	Agaricomycetes	Boletales	NA	Buchwaldoboletus	Buchwaldoboletus hemichrysus
+OTU1572	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	Cladosporium	NA
+OTU1573	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU1574	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1575	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1576	Fungi	NA	NA	NA	NA	NA	NA
+OTU1577	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1578	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	NA	NA
+OTU1579	Fungi	NA	NA	NA	NA	NA	NA
+OTU1580	Fungi	Basidiomycota	Agaricomycetes	Gloeophyllales	Gloeophyllaceae	Neolentinus	Neolentinus lepideus
+OTU1581	Fungi	NA	NA	NA	NA	NA	NA
+OTU1582	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+OTU1583	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Rhinocladiella	NA
+OTU1584	Fungi	NA	NA	NA	NA	NA	NA
+OTU1585	Fungi	NA	NA	NA	NA	NA	NA
+OTU1586	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1588	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	NA	NA
+OTU1589	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothideaceae	Rhizosphaera	NA
+OTU1590	Fungi	NA	NA	NA	NA	NA	NA
+OTU1591	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Lecanoraceae	Lecanora	Lecanora fuscobrunnea
+OTU1592	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1593	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1594	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Engyodontium	Engyodontium album
+OTU1595	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU1596	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU1597	Fungi	NA	NA	NA	NA	NA	NA
+OTU1598	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1599	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	NA	NA
+OTU1600	Fungi	NA	NA	NA	NA	NA	NA
+OTU1601	Fungi	NA	NA	NA	NA	NA	NA
+OTU1602	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1603	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU1604	Fungi	NA	NA	NA	NA	NA	NA
+OTU1605	Fungi	Basidiomycota	Agaricomycetes	Geastrales	Geastraceae	NA	NA
+OTU1606	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1607	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1608	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Microcera	NA
+OTU1609	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1610	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Steccherinaceae	NA	NA
+OTU1611	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	Lasiodiplodia	NA
+OTU1612	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1613	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU1614	Fungi	NA	NA	NA	NA	NA	NA
+OTU1615	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	NA	NA
+OTU1616	Fungi	NA	NA	NA	NA	NA	NA
+OTU1617	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1618	Fungi	NA	NA	NA	NA	NA	NA
+OTU1619	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1620	Fungi	NA	NA	NA	NA	NA	NA
+OTU1621	Fungi	NA	NA	NA	NA	NA	NA
+OTU1622	Fungi	NA	NA	NA	NA	NA	NA
+OTU1623	Fungi	Ascomycota	Lecanoromycetes	Pertusariales	NA	NA	NA
+OTU1624	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1625	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Phialophora	NA
+OTU1626	Fungi	NA	NA	NA	NA	NA	NA
+OTU1627	Fungi	Ascomycota	Leotiomycetes	Helotiales	Myxotrichaceae	Oidiodendron	NA
+OTU1628	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1629	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces radicus
+OTU1630	Fungi	NA	NA	NA	NA	NA	NA
+OTU1631	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Parmelina	Parmelina coleae
+OTU1632	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1633	Fungi	NA	NA	NA	NA	NA	NA
+OTU1634	Rhizaria	Cercozoa	NA	NA	NA	NA	NA
+OTU1635	Fungi	NA	NA	NA	NA	NA	NA
+OTU1637	Fungi	NA	NA	NA	NA	NA	NA
+OTU1638	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	Geopora	Geopora cooperi
+OTU1639	Fungi	NA	NA	NA	NA	NA	NA
+OTU1640	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+OTU1641	Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	NA	NA
+OTU1642	Fungi	NA	NA	NA	NA	NA	NA
+OTU1643	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1644	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Sirobasidiaceae	NA	NA
+OTU1645	Fungi	NA	NA	NA	NA	NA	NA
+OTU1646	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1647	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU1648	Fungi	NA	NA	NA	NA	NA	NA
+OTU1649	Fungi	NA	NA	NA	NA	NA	NA
+OTU1651	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Physciaceae	NA	NA
+OTU1652	Fungi	NA	NA	NA	NA	NA	NA
+OTU1653	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	NA
+OTU1654	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Articulospora	NA
+OTU1655	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU1656	Fungi	NA	NA	NA	NA	NA	NA
+OTU1657	Fungi	NA	NA	NA	NA	NA	NA
+OTU1658	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora fibrinocaudata
+OTU1659	Fungi	NA	NA	NA	NA	NA	NA
+OTU1660	Fungi	NA	NA	NA	NA	NA	NA
+OTU1661	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1662	Fungi	NA	NA	NA	NA	NA	NA
+OTU1663	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1664	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sparticola	Sparticola junci
+OTU1665	Fungi	NA	NA	NA	NA	NA	NA
+OTU1666	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1667	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	Curvibasidium	Curvibasidium rogersii
+OTU1668	Fungi	NA	NA	NA	NA	NA	NA
+OTU1669	Fungi	NA	NA	NA	NA	NA	NA
+OTU1670	Fungi	NA	NA	NA	NA	NA	NA
+OTU1671	Fungi	NA	NA	NA	NA	NA	NA
+OTU1672	Fungi	NA	NA	NA	NA	NA	NA
+OTU1673	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria obovoidea
+OTU1674	Fungi	NA	NA	NA	NA	NA	NA
+OTU1675	Fungi	NA	NA	NA	NA	NA	NA
+OTU1676	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1677	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1679	Fungi	NA	NA	NA	NA	NA	NA
+OTU1680	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	NA
+OTU1681	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU1682	Fungi	Ascomycota	Leotiomycetes	Phacidiales	Phacidiaceae	Phacidium	NA
+OTU1683	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus terreus
+OTU1684	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1685	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces cecidicola
+OTU1686	Fungi	Basidiomycota	Agaricomycetes	Russulales	Stereaceae	Stereum	NA
+OTU1687	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU1688	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Neodevriesiaceae	Neodevriesia	NA
+OTU1689	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU1690	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1691	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	NA	NA
+OTU1692	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Cucurbitariaceae	Pyrenochaeta	NA
+OTU1694	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1695	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1696	Fungi	NA	NA	NA	NA	NA	NA
+OTU1697	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1698	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1699	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Kalmusia	NA
+OTU1700	Fungi	NA	NA	NA	NA	NA	NA
+OTU1701	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	NA
+OTU1702	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1703	Fungi	NA	NA	NA	NA	NA	NA
+OTU1704	Fungi	NA	NA	NA	NA	NA	NA
+OTU1705	Fungi	NA	NA	NA	NA	NA	NA
+OTU1706	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1707	Rhizaria	NA	NA	NA	NA	NA	NA
+OTU1708	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Entolomataceae	Entoloma	NA
+OTU1709	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	NA	NA
+OTU1710	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1711	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1712	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1713	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Orbilia	NA
+OTU1714	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Articulospora	NA
+OTU1715	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU1716	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormiella	Sporormiella irregularis
+OTU1717	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1718	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1719	Fungi	NA	NA	NA	NA	NA	NA
+OTU1720	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1721	Fungi	NA	NA	NA	NA	NA	NA
+OTU1723	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU1724	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1725	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Ascochyta	NA
+OTU1726	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1727	Fungi	NA	NA	NA	NA	NA	NA
+OTU1728	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	NA
+OTU1729	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	NA	NA
+OTU1730	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1731	Fungi	NA	NA	NA	NA	NA	NA
+OTU1732	Fungi	NA	NA	NA	NA	NA	NA
+OTU1733	Fungi	NA	NA	NA	NA	NA	NA
+OTU1734	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	NA
+OTU1735	Fungi	NA	NA	NA	NA	NA	NA
+OTU1737	Fungi	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	Rhizopogon evadens
+OTU1739	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium iranianum
+OTU1740	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Ceratocystiopsis	Ceratocystiopsis brevicomis
+OTU1741	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU1742	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lentitheciaceae	Keissleriella	NA
+OTU1743	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1744	Fungi	NA	NA	NA	NA	NA	NA
+OTU1746	Fungi	NA	NA	NA	NA	NA	NA
+OTU1748	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phanerochaete	NA
+OTU1749	Fungi	NA	NA	NA	NA	NA	NA
+OTU1750	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1751	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1752	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1753	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1754	Fungi	Chytridiomycota	NA	NA	NA	NA	NA
+OTU1755	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Antrodia	Antrodia serialis
+OTU1756	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1757	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascodesmidaceae	Cephaliophora	Cephaliophora tropica
+OTU1758	Fungi	Basidiomycota	Dacrymycetes	Dacrymycetales	Dacrymycetaceae	Cerinosterus	Cerinosterus luteoalbus
+OTU1759	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1760	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1761	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Diutina	Diutina pseudorugosa
+OTU1762	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	NA
+OTU1763	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia kluyveri
+OTU1764	Fungi	NA	NA	NA	NA	NA	NA
+OTU1765	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1766	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU1767	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	NA	NA
+OTU1768	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Schizophyllaceae	Schizophyllum	Schizophyllum commune
+OTU1769	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	NA	NA
+OTU1770	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Heterocephalacria	NA
+OTU1771	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1772	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1773	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	NA	NA
+OTU1774	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1775	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	NA	NA
+OTU1776	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Oleoguttula	NA
+OTU1777	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Diutina	Diutina rugosa
+OTU1778	Fungi	NA	NA	NA	NA	NA	NA
+OTU1779	Fungi	NA	NA	NA	NA	NA	NA
+OTU1780	Fungi	NA	NA	NA	NA	NA	NA
+OTU1781	Fungi	NA	NA	NA	NA	NA	NA
+OTU1782	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1783	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1784	Fungi	NA	NA	NA	NA	NA	NA
+OTU1786	Fungi	NA	NA	NA	NA	NA	NA
+OTU1787	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Chaetosphaeronema	Chaetosphaeronema hispidulum
+OTU1788	Fungi	NA	NA	NA	NA	NA	NA
+OTU1789	Fungi	NA	NA	NA	NA	NA	NA
+OTU1790	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1791	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1792	Fungi	Ascomycota	Leotiomycetes	Helotiales	Dermateaceae	NA	NA
+OTU1793	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1794	Fungi	NA	NA	NA	NA	NA	NA
+OTU1795	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Corticiaceae	Laetisaria	NA
+OTU1796	Fungi	NA	NA	NA	NA	NA	NA
+OTU1797	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Physciaceae	Physconia	NA
+OTU1799	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1800	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Chalara	NA
+OTU1801	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pezizaceae	Peziza	Peziza nivalis
+OTU1802	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1803	Fungi	NA	NA	NA	NA	NA	NA
+OTU1804	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Pseudocamarosporium	Pseudocamarosporium cotinae
+OTU1805	Fungi	NA	NA	NA	NA	NA	NA
+OTU1806	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	NA	NA
+OTU1807	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Geosmithia	Geosmithia pallida
+OTU1808	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	Pyrenophora lolii
+OTU1809	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1810	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	NA	NA
+OTU1811	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Geosmithia	NA
+OTU1812	Fungi	NA	NA	NA	NA	NA	NA
+OTU1814	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1815	Fungi	NA	NA	NA	NA	NA	NA
+OTU1816	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1817	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Fomitopsis	Fomitopsis pinicola
+OTU1818	Fungi	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	Rhizopogon roseolus
+OTU1819	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	NA	NA
+OTU1820	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	NA	NA	NA
+OTU1821	Fungi	NA	NA	NA	NA	NA	NA
+OTU1822	Fungi	NA	NA	NA	NA	NA	NA
+OTU1823	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1824	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1825	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	Dothiora	Dothiora cannabinae
+OTU1826	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Cystofilobasidium	Cystofilobasidium macerans
+OTU1827	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU1828	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium decumbens
+OTU1829	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	NA	NA
+OTU1830	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	NA
+OTU1831	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1832	Fungi	NA	NA	NA	NA	NA	NA
+OTU1833	Fungi	NA	NA	NA	NA	NA	NA
+OTU1834	Fungi	NA	NA	NA	NA	NA	NA
+OTU1835	Fungi	NA	NA	NA	NA	NA	NA
+OTU1836	Fungi	NA	NA	NA	NA	NA	NA
+OTU1837	Fungi	NA	NA	NA	NA	NA	NA
+OTU1838	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Apiosordaria	NA
+OTU1839	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1840	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Sporobolomyces	Sporobolomyces symmetricus
+OTU1841	Fungi	NA	NA	NA	NA	NA	NA
+OTU1842	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU1843	Fungi	Ascomycota	Lecanoromycetes	Teloschistales	Teloschistaceae	Xanthoria	Xanthoria fallax
+OTU1844	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Thielavia	NA
+OTU1845	Fungi	NA	NA	NA	NA	NA	NA
+OTU1846	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	Toxicocladosporium	NA
+OTU1847	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1848	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1849	Fungi	NA	NA	NA	NA	NA	NA
+OTU1850	Fungi	Basidiomycota	Agaricomycetes	Russulales	Stereaceae	Stereum	NA
+OTU1851	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1852	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	NA
+OTU1853	Fungi	NA	NA	NA	NA	NA	NA
+OTU1854	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Coniosporium	NA
+OTU1855	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1856	Fungi	NA	NA	NA	NA	NA	NA
+OTU1857	Fungi	NA	NA	NA	NA	NA	NA
+OTU1858	Fungi	NA	NA	NA	NA	NA	NA
+OTU1859	Fungi	NA	NA	NA	NA	NA	NA
+OTU1860	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Naemateliaceae	NA	NA
+OTU1861	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1862	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma	Pezoloma ericae
+OTU1863	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Issatchenkia	Issatchenkia orientalis
+OTU1864	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Aplosporellaceae	Aplosporella	Aplosporella javeedii
+OTU1865	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU1866	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	NA
+OTU1867	Fungi	NA	NA	NA	NA	NA	NA
+OTU1868	Fungi	NA	NA	NA	NA	NA	NA
+OTU1869	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1870	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1871	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Verrucoconiothyrium	Verrucoconiothyrium prosopidis
+OTU1872	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Corticiaceae	NA	NA
+OTU1873	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU1874	Fungi	Ascomycota	Dothideomycetes	Dothideales	NA	NA	NA
+OTU1875	Fungi	NA	NA	NA	NA	NA	NA
+OTU1876	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1877	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+OTU1878	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1879	Fungi	Basidiomycota	Cystobasidiomycetes	Erythrobasidiales	NA	NA	NA
+OTU1880	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Candida	Candida membranifaciens
+OTU1881	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Lectera	Lectera colletotrichoides
+OTU1882	Fungi	Ascomycota	Dothideomycetes	NA	Eremomycetaceae	Arthrographis	Arthrographis pinicola
+OTU1883	Fungi	Ascomycota	Eurotiomycetes	Mycocaliciales	Mycocaliciaceae	NA	NA
+OTU1884	Fungi	NA	NA	NA	NA	NA	NA
+OTU1885	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU1886	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Entolomataceae	Entoloma	NA
+OTU1887	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1888	Fungi	NA	NA	NA	NA	NA	NA
+OTU1889	Fungi	Ascomycota	Dothideomycetes	Acrospermales	NA	Leptodiscella	NA
+OTU1890	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Pachylepyrium	Pachylepyrium carbonicola
+OTU1891	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Dioszegia	Dioszegia hungarica
+OTU1892	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1893	Fungi	Ascomycota	Lecanoromycetes	Candelariales	Candelariaceae	NA	NA
+OTU1894	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1895	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1896	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU1897	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1898	Fungi	NA	NA	NA	NA	NA	NA
+OTU1899	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1900	Fungi	NA	NA	NA	NA	NA	NA
+OTU1901	Fungi	NA	NA	NA	NA	NA	NA
+OTU1902	Fungi	NA	NA	NA	NA	NA	NA
+OTU1903	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1904	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	NA	NA	NA
+OTU1905	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	NA
+OTU1906	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+OTU1907	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	NA	NA	NA
+OTU1908	Fungi	Ascomycota	Sordariomycetes	Xylariales	NA	NA	NA
+OTU1909	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1910	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU1911	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	NA	NA
+OTU1912	Fungi	NA	NA	NA	NA	NA	NA
+OTU1913	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1914	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU1915	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1916	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1917	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	NA	NA
+OTU1918	Fungi	NA	NA	NA	NA	NA	NA
+OTU1919	Fungi	Ascomycota	Dothideomycetes	Dothideales	NA	NA	NA
+OTU1920	Fungi	NA	NA	NA	NA	NA	NA
+OTU1921	Fungi	NA	NA	NA	NA	NA	NA
+OTU1922	Fungi	NA	NA	NA	NA	NA	NA
+OTU1923	Fungi	NA	NA	NA	NA	NA	NA
+OTU1924	Fungi	NA	NA	NA	NA	NA	NA
+OTU1925	Fungi	Ascomycota	Dothideomycetes	Venturiales	NA	NA	NA
+OTU1926	Fungi	NA	NA	NA	NA	NA	NA
+OTU1927	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU1928	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1929	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Endocarpon	NA
+OTU1930	Rhizaria	Cercozoa	NA	NA	NA	NA	NA
+OTU1931	Fungi	Ascomycota	Sordariomycetes	Xylariales	Amphisphaeriaceae	Seimatosporium	Seimatosporium pezizoides
+OTU1932	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Irpex	Irpex lacteus
+OTU1933	Fungi	NA	NA	NA	NA	NA	NA
+OTU1934	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1935	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1936	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1937	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU1938	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1939	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	Phoma polemonii
+OTU1940	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Placidium	Placidium umbrinum
+OTU1941	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	NA	NA
+OTU1942	Fungi	NA	NA	NA	NA	NA	NA
+OTU1943	Fungi	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	NA
+OTU1944	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	NA	NA
+OTU1945	Fungi	NA	NA	NA	NA	NA	NA
+OTU1946	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1947	Fungi	NA	NA	NA	NA	NA	NA
+OTU1948	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU1949	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Thyronectria	Thyronectria balsamea
+OTU1950	Fungi	Rozellomycota	NA	NA	NA	NA	NA
+OTU1951	Fungi	NA	NA	NA	NA	NA	NA
+OTU1952	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+OTU1953	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1954	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	NA
+OTU1955	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU1956	Fungi	Ascomycota	Sordariomycetes	Xylariales	Microdochiaceae	Microdochium	Microdochium bolleyi
+OTU1957	Fungi	NA	NA	NA	NA	NA	NA
+OTU1958	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Zopfiella	Zopfiella longicaudata
+OTU1959	Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	Blumeria	Blumeria graminis
+OTU1960	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Rhynchogastremataceae	Papiliotrema	NA
+OTU1961	Fungi	NA	NA	NA	NA	NA	NA
+OTU1962	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Ceratocystiopsis	Ceratocystiopsis minima
+OTU1963	Fungi	NA	NA	NA	NA	NA	NA
+OTU1964	Fungi	Ascomycota	Dothideomycetes	NA	NA	Catenulomyces	Catenulomyces convolutus
+OTU1965	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	Curvularia nicotiae
+OTU1966	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1967	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+OTU1968	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+OTU1969	Fungi	Ascomycota	Dothideomycetes	Venturiales	Sympoventuriaceae	NA	NA
+OTU1970	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1972	Fungi	NA	NA	NA	NA	NA	NA
+OTU1973	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus penicillioides
+OTU1974	Fungi	NA	NA	NA	NA	NA	NA
+OTU1975	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1976	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1977	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU1978	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1979	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+OTU1980	Fungi	NA	NA	NA	NA	NA	NA
+OTU1981	Fungi	NA	NA	NA	NA	NA	NA
+OTU1982	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	Taphrina	Taphrina pruni-subcordatae
+OTU1983	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1984	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU1985	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU1986	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU1988	Fungi	NA	NA	NA	NA	NA	NA
+OTU1989	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	Preussia terricola
+OTU1990	Rhizaria	Cercozoa	NA	NA	NA	NA	NA
+OTU1991	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	Mortierella stylospora
+OTU1992	Fungi	NA	NA	NA	NA	NA	NA
+OTU1994	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum	Apiotrichum porosum
+OTU1995	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Flagellospora	Flagellospora leucorhynchos
+OTU1996	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU1997	Fungi	Basidiomycota	Agaricomycetes	Trechisporales	Hydnodontaceae	Trechispora	Trechispora subsphaerospora
+OTU1998	Fungi	NA	NA	NA	NA	NA	NA
+OTU1999	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2000	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2001	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU2002	Fungi	NA	NA	NA	NA	NA	NA
+OTU2003	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Articulospora	NA
+OTU2004	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2005	Fungi	NA	NA	NA	NA	NA	NA
+OTU2006	Fungi	NA	NA	NA	NA	NA	NA
+OTU2007	Fungi	NA	NA	NA	NA	NA	NA
+OTU2008	Fungi	Ascomycota	Leotiomycetes	Helotiales	Myxotrichaceae	Amorphotheca	Amorphotheca resinae
+OTU2009	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinellus	Coprinellus sassii
+OTU2010	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Setophaeosphaeria	Setophaeosphaeria badalingensis
+OTU2011	Fungi	NA	NA	NA	NA	NA	NA
+OTU2012	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Articulospora	NA
+OTU2013	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Cercophora	NA
+OTU2015	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Schizothecium	Schizothecium vesticola
+OTU2016	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA
+OTU2017	Fungi	NA	NA	NA	NA	NA	NA
+OTU2018	Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	Podosphaera	NA
+OTU2019	Fungi	NA	NA	NA	NA	NA	NA
+OTU2020	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+OTU2021	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2022	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU2023	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU2024	Fungi	Basidiomycota	Agaricomycetes	Auriculariales	Hyaloriaceae	Stypella	Stypella dubia
+OTU2025	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma deliquescens
+OTU2026	Fungi	Basidiomycota	Agaricomycetes	Boletales	Pisolithaceae	Pisolithus	Pisolithus arhizus
+OTU2027	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiotremataceae	NA	NA
+OTU2028	Fungi	NA	NA	NA	NA	NA	NA
+OTU2029	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Kondoaceae	Bensingtonia	Bensingtonia ciliata
+OTU2030	Fungi	NA	NA	NA	NA	NA	NA
+OTU2031	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU2032	Fungi	NA	NA	NA	NA	NA	NA
+OTU2033	Fungi	Ascomycota	Lecanoromycetes	Pertusariales	Megasporaceae	NA	NA
+OTU2034	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2035	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Latorua	Latorua caligans
+OTU2036	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	NA	NA	NA
+OTU2037	Fungi	NA	NA	NA	NA	NA	NA
+OTU2038	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2039	Fungi	NA	NA	NA	NA	NA	NA
+OTU2040	Fungi	NA	NA	NA	NA	NA	NA
+OTU2041	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Torulaceae	Torula	NA
+OTU2042	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2043	Fungi	NA	NA	NA	NA	NA	NA
+OTU2044	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU2045	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2046	Fungi	Ascomycota	Lecanoromycetes	NA	NA	NA	NA
+OTU2047	Fungi	NA	NA	NA	NA	NA	NA
+OTU2048	Fungi	NA	NA	NA	NA	NA	NA
+OTU2049	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metapochonia	Metapochonia suchlasporia
+OTU2050	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2051	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2052	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae	NA	NA
+OTU2053	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2054	Fungi	NA	NA	NA	NA	NA	NA
+OTU2055	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU2056	Fungi	Rozellomycota	NA	NA	NA	NA	NA
+OTU2057	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	NA	NA
+OTU2058	Fungi	NA	NA	NA	NA	NA	NA
+OTU2059	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phlebia	Phlebia margaritae
+OTU2060	Fungi	Basidiomycota	Agaricomycetes	Hysterangiales	Hysterangiaceae	NA	NA
+OTU2061	Fungi	Mucoromycota	Umbelopsidomycetes	Umbelopsidales	NA	NA	NA
+OTU2062	Fungi	NA	NA	NA	NA	NA	NA
+OTU2063	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU2064	Fungi	NA	NA	NA	NA	NA	NA
+OTU2065	Fungi	NA	NA	NA	NA	NA	NA
+OTU2066	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Lycoperdaceae	Calvatia	Calvatia fragilis
+OTU2067	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU2068	Fungi	Ascomycota	Lecanoromycetes	Teloschistales	Teloschistaceae	Caloplaca	NA
+OTU2069	Fungi	NA	NA	NA	NA	NA	NA
+OTU2071	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU2072	Fungi	NA	NA	NA	NA	NA	NA
+OTU2073	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2075	Fungi	NA	NA	NA	NA	NA	NA
+OTU2076	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU2077	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU2078	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Bulleromyces	NA
+OTU2079	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU2080	Fungi	NA	NA	NA	NA	NA	NA
+OTU2081	Fungi	NA	NA	NA	NA	NA	NA
+OTU2082	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU2083	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lentitheciaceae	NA	NA
+OTU2084	Fungi	NA	NA	NA	NA	NA	NA
+OTU2085	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU2086	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Candida	Candida silvanorum
+OTU2087	Fungi	Mortierellomycota	NA	NA	NA	NA	NA
+OTU2088	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Yamadazyma	Yamadazyma akitaensis
+OTU2089	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+OTU2090	Fungi	Ascomycota	Leotiomycetes	Helotiales	Myxotrichaceae	Oidiodendron	NA
+OTU2091	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2093	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2094	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2095	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	Madurella	Madurella fahalii
+OTU2096	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Bjerkandera	Bjerkandera adusta
+OTU2097	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU2098	Fungi	NA	NA	NA	NA	NA	NA
+OTU2099	Fungi	NA	NA	NA	NA	NA	NA
+OTU2100	Fungi	Basidiomycota	Agaricomycetes	Boletales	Rhizopogonaceae	Rhizopogon	NA
+OTU2101	Fungi	NA	NA	NA	NA	NA	NA
+OTU2102	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU2103	Fungi	NA	NA	NA	NA	NA	NA
+OTU2104	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU2105	Rhizaria	Cercozoa	NA	NA	NA	NA	NA
+OTU2107	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2108	Fungi	Basidiomycota	Agaricomycetes	Boletales	Boletaceae	Aureoboletus	Aureoboletus mirabilis
+OTU2109	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Xenopolyscytalum	NA
+OTU2110	Fungi	NA	NA	NA	NA	NA	NA
+OTU2112	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	NA
+OTU2113	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU2114	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia	Phenoliferia psychrophila
+OTU2115	Fungi	NA	NA	NA	NA	NA	NA
+OTU2116	Fungi	NA	NA	NA	NA	NA	NA
+OTU2117	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU2118	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Periconiaceae	NA	NA
+OTU2120	Fungi	NA	NA	NA	NA	NA	NA
+OTU2121	Fungi	NA	NA	NA	NA	NA	NA
+OTU2122	Fungi	NA	NA	NA	NA	NA	NA
+OTU2124	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2125	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU2126	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Caliciaceae	NA	NA
+OTU2127	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Stemphylium	Stemphylium loti
+OTU2128	Fungi	NA	NA	NA	NA	NA	NA
+OTU2129	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+OTU2130	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+OTU2131	Fungi	NA	NA	NA	NA	NA	NA
+OTU2132	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	NA	NA	NA
+OTU2133	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	Taphrina	NA
+OTU2134	Fungi	NA	NA	NA	NA	NA	NA
+OTU2135	Fungi	Ascomycota	Pezizomycetes	Pezizales	NA	NA	NA
+OTU2136	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU2137	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Mrakiaceae	NA	NA
+OTU2138	Fungi	Ascomycota	Eurotiomycetes	Onygenales	NA	Chrysosporium	Chrysosporium lobatum
+OTU2139	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Ganodermataceae	Ganoderma	NA
+OTU2140	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2142	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU2144	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	Orbiliaceae	Orbilia	NA
+OTU2145	Fungi	NA	NA	NA	NA	NA	NA
+OTU2147	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium glandicola
+OTU2148	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU2149	Fungi	NA	NA	NA	NA	NA	NA
+OTU2151	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	NA
+OTU2152	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Caliciaceae	Buellia	NA
+OTU2153	Fungi	NA	NA	NA	NA	NA	NA
+OTU2154	Fungi	NA	NA	NA	NA	NA	NA
+OTU2155	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+OTU2156	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Coniothyriaceae	Hazslinszkyomyces	Hazslinszkyomyces aloes
+OTU2157	Fungi	NA	NA	NA	NA	NA	NA
+OTU2158	Fungi	Neocallimastigomycota	NA	NA	NA	NA	NA
+OTU2159	Fungi	Entomophthoromycota	Basidiobolomycetes	Basidiobolales	Basidiobolaceae	NA	NA
+OTU2160	Fungi	NA	NA	NA	NA	NA	NA
+OTU2161	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	NA	NA
+OTU2162	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	Ceratobasidiaceae	NA	NA
+OTU2163	Fungi	NA	NA	NA	NA	NA	NA
+OTU2164	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU2165	Fungi	NA	NA	NA	NA	NA	NA
+OTU2166	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+OTU2167	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Pseudeurotium	NA
+OTU2169	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	NA	NA	NA
+OTU2170	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2171	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2173	Fungi	NA	NA	NA	NA	NA	NA
+OTU2174	Fungi	Basidiomycota	Agaricomycetes	Boletales	Coniophoraceae	Meruliporia	Meruliporia incrassata
+OTU2175	Fungi	NA	NA	NA	NA	NA	NA
+OTU2176	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU2177	Fungi	NA	NA	NA	NA	NA	NA
+OTU2178	Fungi	NA	NA	NA	NA	NA	NA
+OTU2179	Fungi	NA	NA	NA	NA	NA	NA
+OTU2180	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Nodobryoria	Nodobryoria oregana
+OTU2181	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2182	Fungi	Ascomycota	Lecanoromycetes	Trapeliales	Trapeliaceae	NA	NA
+OTU2183	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2184	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+OTU2185	Fungi	NA	NA	NA	NA	NA	NA
+OTU2186	Fungi	NA	NA	NA	NA	NA	NA
+OTU2187	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU2188	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+OTU2189	Fungi	NA	NA	NA	NA	NA	NA
+OTU2190	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2191	Fungi	NA	NA	NA	NA	NA	NA
+OTU2193	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU2194	Fungi	NA	NA	NA	NA	NA	NA
+OTU2195	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	Curvularia intermedia
+OTU2196	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2197	Fungi	NA	NA	NA	NA	NA	NA
+OTU2198	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Geosmithia	NA
+OTU2199	Fungi	NA	NA	NA	NA	NA	NA
+OTU2200	Fungi	NA	NA	NA	NA	NA	NA
+OTU2201	Fungi	NA	NA	NA	NA	NA	NA
+OTU2202	Fungi	NA	NA	NA	NA	NA	NA
+OTU2203	Fungi	NA	NA	NA	NA	NA	NA
+OTU2204	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+OTU2205	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU2206	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Mycoacia	Mycoacia uda
+OTU2207	Fungi	NA	NA	NA	NA	NA	NA
+OTU2208	Fungi	NA	NA	NA	NA	NA	NA
+OTU2209	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	Botryobasidiaceae	NA	NA
+OTU2210	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU2211	Fungi	NA	NA	NA	NA	NA	NA
+OTU2212	Fungi	NA	NA	NA	NA	NA	NA
+OTU2213	Fungi	NA	NA	NA	NA	NA	NA
+OTU2214	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	NA	NA
+OTU2215	Fungi	NA	NA	NA	NA	NA	NA
+OTU2216	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	Trichophaea	NA
+OTU2217	Fungi	Ascomycota	Sordariomycetes	Chaetosphaeriales	Chaetosphaeriaceae	Chloridium	NA
+OTU2218	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+OTU2219	Fungi	NA	NA	NA	NA	NA	NA
+OTU2220	Fungi	NA	NA	NA	NA	NA	NA
+OTU2221	Fungi	NA	NA	NA	NA	NA	NA
+OTU2222	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Cyclaneusma	Cyclaneusma minus
+OTU2223	Fungi	Mucoromycota	NA	NA	NA	NA	NA
+OTU2224	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Chalara	NA
+OTU2225	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2226	Fungi	NA	NA	NA	NA	NA	NA
+OTU2227	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Lecanoraceae	Lecanora	NA
+OTU2228	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pezizaceae	Oedocephalum	NA
+OTU2229	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2230	Fungi	NA	NA	NA	NA	NA	NA
+OTU2231	Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	NA	NA	NA
+OTU2232	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	NA
+OTU2233	Fungi	NA	NA	NA	NA	NA	NA
+OTU2234	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Auriporia	Auriporia aurea
+OTU2235	Fungi	Basidiomycota	Cystobasidiomycetes	NA	Microsporomycetaceae	Microsporomyces	Microsporomyces pini
+OTU2236	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+OTU2237	Fungi	NA	NA	NA	NA	NA	NA
+OTU2238	Fungi	NA	NA	NA	NA	NA	NA
+OTU2239	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+OTU2241	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Pirex	Pirex concentricus
+OTU2243	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Elaphomycetaceae	Elaphomyces	Elaphomyces decipiens
+OTU2245	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+OTU2246	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Battarrea	Battarrea phalloides
+OTU2247	Fungi	NA	NA	NA	NA	NA	NA
+OTU2248	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA
+OTU2249	Fungi	NA	NA	NA	NA	NA	NA
+OTU2250	Fungi	Ascomycota	Dothideomycetes	Dothideales	NA	NA	NA
+OTU2251	Fungi	NA	NA	NA	NA	NA	NA
+OTU2252	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2253	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+OTU2254	Fungi	NA	NA	NA	NA	NA	NA
+OTU2255	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2256	Fungi	NA	NA	NA	NA	NA	NA
+OTU2257	Fungi	NA	NA	NA	NA	NA	NA
+OTU2259	Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	Protoventuria	NA
+OTU2260	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	Trichometasphaeria	NA
+OTU2261	Fungi	NA	NA	NA	NA	NA	NA
+OTU2262	Fungi	Ascomycota	Lecanoromycetes	Leprocaulales	Leprocaulaceae	Leprocaulon	Leprocaulon santamonicae
+OTU2263	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA
+OTU2264	Fungi	Basidiomycota	Agaricomycetes	Auriculariales	NA	NA	NA
+OTU2265	Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	NA	NA
+OTU2266	Fungi	NA	NA	NA	NA	NA	NA
+OTU2267	Fungi	Ascomycota	Dothideomycetes	Dothideales	NA	NA	NA
+OTU2268	Fungi	Ascomycota	NA	NA	NA	NA	NA
+OTU2269	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Coriolaceae	Lenzites	Lenzites betulina
+OTU2270	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+OTU2271	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Phialophora	NA
+OTU2272	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+OTU2273	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Didymocyrtis	NA
+OTU2274	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Verrucaria	NA
+OTU2275	Fungi	NA	NA	NA	NA	NA	NA
+OTU2276	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Ramalinaceae	Waynea	Waynea californica
+OTU2277	Fungi	NA	NA	NA	NA	NA	NA
