@@ -6,7 +6,7 @@ Github repository for Dust ITSseqs2014-2015
 
 #### [Dust_Fungi](Dust_Fungi/) folder contains
 - OTU table: [DustFungi.otu_table.txt](Dust_Fungi/DustFungi.otu_table.txt)
-- Taxonomy table: [DustFungi.taxonomy.txt](Dust_Fungi/DustFungi.taxonomy.txt)
+- Taxonomy table: [DustFungi.taxonomy.fix.txt](Dust_Fungi/DustFungi.taxonomy.fix.txt)
 - Mapping file: [SierraMapIsoF.csv](Dust_Fungi/SierraMapIsoF.csv)
 
 
