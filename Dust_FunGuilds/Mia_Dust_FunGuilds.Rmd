@@ -1,7 +1,7 @@
 ---
 title: "Mia_Dust_FunGuilds"
 author: "Nat Pombubpa"
-date: "Updated on October 12, 2018"
+date: "Updated on October 19, 2018"
 output: html_document
 ---
 
@@ -35,7 +35,7 @@ library(plyr)
 3.Please make sure that your metadata and FunGuilds SampleID are the same. 
 
 ```{r}
-meta = read.table("DustFungiMap.csv",header=TRUE,row.names=1,sep=",",stringsAsFactors=FALSE)
+meta = read.table("SierraMapIsoF.csv",header=TRUE,row.names=1,sep=",",stringsAsFactors=FALSE)
 ```
 
 ###STEP3: Check if your metadata file has been import successfully and correctly
@@ -46,6 +46,10 @@ The output will show a table of your metadata file (mapping file).
 
 ```{r}
 head(meta)
+```
+
+```{r}
+dim(meta)
 ```
 
 ###STEP4: Construct sample_data-class using imported metadata
@@ -72,11 +76,21 @@ Entire Data from FunGuilds table (first 6 lines)
 head(FG)
 ```
 
+```{r}
+dim(FG)
+```
+
+
 Selcted Data from FunGuilds table (first 6 lines)
 
 ```{r}
 head(FGOTU)
 ```
+
+```{r}
+dim(FGOTU)
+```
+
 
 ###STEP6: Import Functional Guilds (Trophic Mode, Guild, Growth.Morphology) as Taxonomy feature
 
@@ -113,10 +127,10 @@ Note: you might want to check the entire data before you use these filters.
 
 ```{r}
 fgps.prune = prune_taxa(taxa_sums(fgps) > 10, fgps)
-fgps.prune.confidence1 = subset_taxa(fgps.prune, Confidence.Ranking!="Possible")
-fgps.prune.no.na = subset_taxa(fgps.prune.confidence1, Trophic.Mode!="-")
-fgps.prune.no.null = subset_taxa(fgps.prune.no.na, Guild!="NULL")
-fgps.prune.no.null = subset_taxa(fgps.prune.no.null, Growth.Morphology!="NULL")
+#fgps.prune.confidence1 = subset_taxa(fgps.prune, Confidence.Ranking!="Possible")
+#fgps.prune.no.na = subset_taxa(fgps.prune.confidence1, Trophic.Mode!="-")
+#fgps.prune.no.null = subset_taxa(fgps.prune.no.na, Guild!="NULL")
+#fgps.prune.no.null = subset_taxa(fgps.prune.no.null, Growth.Morphology!="NULL")
 ```
 
 Check phyloseq object after filtering
@@ -131,13 +145,13 @@ x = any environmental variable (in this case, I tested with Elevayion)
 fill = Functional Guilds that you want to plot (Trophic.Mode, Guild, Growth.Morphology)
 
 ```{r fig.height=6, fig.width=10, fig.align="center"}
-ggplot(data = psmelt(fgps.prune.no.null), mapping = aes_string(x = "Elevation" ,y = "Abundance", 
+ggplot(data = psmelt(fgps.prune), mapping = aes_string(x = "Site" ,y = "Abundance", 
                                                                fill = "Trophic.Mode" )) + 
   geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Trophic.Mode by Elevation")
 ```
 
 ```{r fig.height=6, fig.width=10, fig.align="center"}
-ggplot(data = psmelt(fgps.prune.no.null), mapping = aes_string(x = "Elevation" ,y = "Abundance", 
+ggplot(data = psmelt(fgps.prune), mapping = aes_string(x = "Elevation" ,y = "Abundance", 
                                                                fill = "Growth.Morphology" )) + 
   geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Growth.Morphology by Elevation")
 ```
