@@ -128,7 +128,7 @@ Note: you might want to check the entire data before you use these filters.
 ```{r}
 fgps.prune = prune_taxa(taxa_sums(fgps) > 10, fgps)
 #fgps.prune.confidence1 = subset_taxa(fgps.prune, Confidence.Ranking!="Possible")
-#fgps.prune.no.na = subset_taxa(fgps.prune.confidence1, Trophic.Mode!="-")
+fgps.prune.no.na = subset_taxa(fgps.prune, Trophic.Mode!="-")
 #fgps.prune.no.null = subset_taxa(fgps.prune.no.na, Guild!="NULL")
 #fgps.prune.no.null = subset_taxa(fgps.prune.no.null, Growth.Morphology!="NULL")
 ```
@@ -136,39 +136,55 @@ fgps.prune = prune_taxa(taxa_sums(fgps) > 10, fgps)
 Check phyloseq object after filtering
 
 ```{r}
-fgps.prune.no.null
+fgps.prune.no.na
 ```
 
 ###STEP9: Plot all FunGuilds data from Trophic.Mode, Guild, Growth.Morphology
 
-x = any environmental variable (in this case, I tested with Elevayion)
+x = any environmental variable (in this case, I tested with Site)
 fill = Functional Guilds that you want to plot (Trophic.Mode, Guild, Growth.Morphology)
+
 
 ```{r fig.height=6, fig.width=10, fig.align="center"}
 ggplot(data = psmelt(fgps.prune), mapping = aes_string(x = "Site" ,y = "Abundance", 
                                                                fill = "Trophic.Mode" )) + 
-  geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Trophic.Mode by Elevation")
+  geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Trophic.Mode by Site (Relative Abundance)")
 ```
 
 ```{r fig.height=6, fig.width=10, fig.align="center"}
-ggplot(data = psmelt(fgps.prune), mapping = aes_string(x = "Elevation" ,y = "Abundance", 
-                                                               fill = "Growth.Morphology" )) + 
-  geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Growth.Morphology by Elevation")
+plot_bar(fgps.prune, x="Site",fill = "Trophic.Mode") + 
+  ggtitle("Dust Fungi Trophic.Mode by Site (Actual Abundance)") + 
+  geom_bar(aes(color=Trophic.Mode, fill=Trophic.Mode), stat="identity", position="stack")
 ```
 
-```{r fig.height=6, fig.width=12, fig.align="center"}
-ggplot(data = psmelt(fgps.prune.no.null), mapping = aes_string(x = "Elevation" ,y = "Abundance", 
-                                                               fill = "Guild" )) + 
-  geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Guild by Elevation")
+
+```{r fig.height=6, fig.width=10, fig.align="center"}
+ggplot(data = psmelt(fgps.prune.no.na), mapping = aes_string(x = "Site" ,y = "Abundance", 
+                                                               fill = "Trophic.Mode" )) + 
+  geom_bar(stat="identity", position="fill") + 
+  ggtitle("Dust Fungi Trophic.Mode (no NA) by Site (Relative Abundance)")
 ```
 
-###STEP10: Get the top 100 OTUs and plot only the top abundance
+```{r fig.height=6, fig.width=10, fig.align="center"}
+plot_bar(fgps.prune.no.na, x="Site",fill = "Trophic.Mode") + 
+  ggtitle("Dust Fungi Trophic.Mode (no NA) by Site (Actual Abundance)") + 
+  geom_bar(aes(color=Trophic.Mode, fill=Trophic.Mode), stat="identity", position="stack")
+```
+
+###STEP10: Get the top 50 OTUs and plot only the top abundance
 
 ```{r}
-ps.prune = prune_taxa(names(sort(taxa_sums(fgps.prune.no.null), TRUE))[1:50], fgps.prune.no.null)
+ps.prune = prune_taxa(names(sort(taxa_sums(fgps.prune), TRUE))[1:50], fgps.prune)
+```
+
+```{r fig.height=6, fig.width=10, fig.align="center"}
+plot_bar(ps.prune, x="Site",fill = "Trophic.Mode") + 
+  ggtitle("Dust Fungi Trophic.Mode by Site (Actual Abundance of top 50 OTUs)") + 
+  geom_bar(aes(color=Trophic.Mode, fill=Trophic.Mode), stat="identity", position="stack")
 ```
 
 ```{r fig.height=6, fig.width=12, fig.align="center"}
-ggplot(data = psmelt(ps.prune), mapping = aes_string(x = "Elevation" ,y = "Abundance", fill = "Guild" )) + 
-  geom_bar(stat="identity", position="fill") + ggtitle("Dust Fungi Guild by Elevation")
+ggplot(data = psmelt(ps.prune), mapping = aes_string(x = "Site" ,y = "Abundance", fill = "Guild" )) + 
+  geom_bar(stat="identity", position="fill") + 
+  ggtitle("Dust Fungi Guild by Site (Relative Abundance of top 50 OTUs)")
 ```
