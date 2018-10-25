@@ -1,0 +1,167 @@
+---
+title: "Mia_Dust_Fungi"
+author: "Nat Pombubpa"
+date: "October 25, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+###STEP1: Load all necessary packages for analysis
+More information about Phyloseq can be found at the following link: [Phyloseq](https://joey711.github.io/phyloseq/)
+If you get error in this step, you probably need to install any packages which causes error.
+
+```{r warning=FALSE, message=FALSE}
+library(ape)
+library(vegan)
+library(plyr)
+library(dplyr)
+library(scales)
+library(grid)
+library(reshape2)
+library(phyloseq)
+library(magrittr)
+library(ggplot2)
+library(ggpubr)
+library(data.table)
+```
+
+###STEP2: Import Mapping file (metadate file)
+1.Check mapping file before import to R, R will automatically change sample name that starts with number or contain “-” in sample name. 
+
+2.First column of first row should not start with #, R will not read the first row that starts with #
+
+3. You can choose which samples to include in analysis by indicating specific group in the column
+
+```{r warning=FALSE}
+meta = read.table("SierraMapIsoF.csv",
+                  header=TRUE,row.names=1,
+                  sep=",",stringsAsFactors=FALSE)
+```
+
+###STEP3: Check if your metadata file has been import successfully and correctly
+
+The output will show a table of your metadata file (mapping file).
+
+*If you do not have header, you might start your first row with #
+
+```{r warning=FALSE}
+head(meta)
+```
+
+###STEP4: Construct sample_data-class using imported metadata
+
+```{r warning=FALSE}
+sampleData <- sample_data(meta)
+```
+
+###STEP5: Import OTU table
+
+OTU table from Jornada 16S data is “Pietras16S.otu_table.fix.txt”.
+
+```{r warning=FALSE}
+otus <- read.table("DustFungi.otu_table.txt",
+                   header=T,sep="\t",row.names = 1)
+otumat <- as(as.matrix(otus), "matrix")
+OTU = otu_table(otumat, taxa_are_rows = TRUE)
+```
+
+```{r}
+head(otus)
+```
+
+###STEP6: Import taxonomy table
+Taxonmy table generated from AMPtk need to be rearranged using following script.
+
+“perl rdp_taxonmy2mat.pl<Input_taxonmy.txt>Output_taxonomy.txt”
+
+rdp_taxonomy2mat.pl was created by Professor Jason E. Stajich
+
+```{r warning=FALSE}
+taxmat <- read.table("DustFungi.taxonomy.fix.txt", 
+                     header=T,sep="\t",row.names=1)
+taxmat <- as(as.matrix(taxmat),"matrix")
+TAX = tax_table(taxmat)
+```
+
+###STEP7: Construct Phyloseq object
+To construct phyloseq object, otu table, taxonomy table, and sampleData are required. Phylogenetic tree can be included, but it is not necessary for constructing phyloseq object.
+Construct Phyloseq object called "Physeq"
+
+```{r warning=FALSE}
+physeq = phyloseq(OTU,TAX,sampleData)
+```
+
+###STEP8: Check phyloseq object
+This should indicate that your physeq is a "phyloseq-class experiment-level object"
+
+```{r warning=FALSE}
+physeq
+```
+
+###STEP9: Remove singletons
+Remove any OTUs that present only one time.
+
+```{r }
+physeq.prune = prune_taxa(taxa_sums(physeq) > 1, physeq)
+```
+
+```{r warning=FALSE}
+physeq.prune
+```
+
+##STEP10: Plot read counts to check dataset
+Check read counts: any samples that have very low reads should be removed.
+[Ref](http://evomics.org/wp-content/uploads/2016/01/phyloseq-Lab-01-Answers.html)
+
+```{r}
+readcount = data.table(as(sample_data(physeq.prune), "data.frame"),
+                 TotalReads = sample_sums(physeq.prune), 
+                 keep.rownames = TRUE)
+setnames(readcount, "rn", "SampleID")
+SeqDepth = ggplot(readcount, aes(TotalReads)) + geom_histogram() + ggtitle("Sequencing Depth")
+```
+
+TotalReads of all the samples can be in this table (select only SampleID and TotalReads columns).
+In order to check samples with low number of reads, "order()" can be used to sort "TotalReads" column.
+In this dataset, N55.Rhizo has very low number of reads, so will will filter this sample out using the next minimum number of reads.
+
+```{r}
+readcount = readcount[order(readcount$TotalReads), c("SampleID", "TotalReads")]
+```
+
+```{r}
+head(readcount)
+```
+
+###STEP11:Rarefy OTUs to a minimum number of reads (OPTIONAL)
+Rarefy OTUs (remove any samples that has very low number of reads)
+
+```{r warning=FALSE}
+set.seed(711)
+physeq.prune.rarefy = rarefy_even_depth(physeq.prune, sample.size = 7325, replace = FALSE, trimOTUs = TRUE)
+physeq.prune.rarefy
+```
+You have successfully imported data to R and completely generate phyloseq object as "physeq.prune.rarefy".
+
+###STEP12: Calculating distance matrix (bray curtis)
+```{r}
+ps.dist = phyloseq::distance(physeq.prune.rarefy, "bray")
+```
+
+###STEP12.1: PERMANOVA on environmental data
+```{r}
+adonis(ps.dist ~Site * NdEp * Sr, as(sample_data(physeq.prune.rarefy),"data.frame"))
+```
+
+
+
+
+
+
+
+
+
+
