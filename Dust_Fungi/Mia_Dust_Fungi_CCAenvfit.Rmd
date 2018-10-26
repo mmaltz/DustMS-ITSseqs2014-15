@@ -1,7 +1,7 @@
 ---
-title: "Mia_Dust_Fungi"
+title: "Mia_Dust_Fungi_CCAenvfit"
 author: "Nat Pombubpa"
-date: "October 25, 2018"
+date: "Updated on October 26, 2018"
 output: html_document
 ---
 
@@ -31,7 +31,7 @@ library(data.table)
 ###STEP2: Import Mapping file (metadate file)
 1.Check mapping file before import to R, R will automatically change sample name that starts with number or contain “-” in sample name. 
 
-2.First column of first row should not start with #, R will not read the first row that starts with #
+2.First column of first row should not start with #, R will not read the first row that starts with '#'
 
 3. You can choose which samples to include in analysis by indicating specific group in the column
 
@@ -147,14 +147,103 @@ physeq.prune.rarefy
 You have successfully imported data to R and completely generate phyloseq object as "physeq.prune.rarefy".
 
 ###STEP12: Calculating distance matrix (bray curtis)
+
 ```{r}
 ps.dist = phyloseq::distance(physeq.prune.rarefy, "bray")
 ```
 
 ###STEP12.1: PERMANOVA on environmental data
+
 ```{r}
-adonis(ps.dist ~Site * NdEp * Sr, as(sample_data(physeq.prune.rarefy),"data.frame"))
+colnames(meta)
 ```
+
+
+```{r}
+set.seed(1)
+adonis(ps.dist ~Sr+NdEp+Elevation, as(sample_data(physeq.prune.rarefy),"data.frame"))
+```
+
+Using "formaula" to indicate environmental factors for distance/ordinate calculation. 
+
+```{r}
+physeq.prune.rarefy.ps.cca <- ordinate(physeq.prune.rarefy, "CCA", 
+                                       formula = ~Sr+NdEp+Elevation)
+```
+
+###STEP13: Plot ordination
+
+```{r}
+plot_ordination(physeq.prune.rarefy, physeq.prune.rarefy.ps.cca, type = "samples", 
+                color = "Site", shape = "Site") + ggtitle("Bacterial Beta Diversity (CCA)") + theme(plot.title = element_text(hjust = 0.5))
+```
+
+add ordination plot to a variable "pcca"
+
+```{r}
+pcca = plot_ordination(physeq.prune.rarefy, physeq.prune.rarefy.ps.cca, type = "samples", 
+                       color = "Site", shape = "Site")
+```
+
+###STEP14: Get environmental distance from CCA to arrows
+
+```{r}
+arrowdist <- vegan::scores(physeq.prune.rarefy.ps.cca, display = c("bp"))
+```
+
+Check data for arrow distance, you should see your environmental factor with distances (CCA1 and CCA2)
+
+```{r}
+head(arrowdist)
+```
+
+###STEP15: Add arrow distance to data frame
+
+```{r}
+arrowdf <- data.frame(labels = rownames(arrowdist), arrowdist)
+```
+
+Check data frame for arrow distance
+
+```{r}
+head(arrowdf)
+```
+
+###STEP16: Define arrow starting point and labels
+Defining arrow starting point and coordinates for fitting into CCA plot.
+
+```{r}
+arrow_map = aes(xend = CCA1, yend = CCA2, x = 0, y = 0, shape = NULL, color = NULL, label = labels)
+label_map = aes(x = 1.1 * CCA1, y = 1.1 * CCA2, shape = NULL, color = NULL, label = labels)
+```
+
+###STEP17: Add environemntal arrow data to plot 
+
+```{r warning=FALSE}
+arrowhead = arrow(length = unit(0.05, "npc"))
+pcca.envfit = pcca + geom_segment(arrow_map, size = 0.8, data = arrowdf, color = "gray", 
+    arrow = arrowhead) + geom_text(label_map, size = 3, data = arrowdf) + 
+  ggtitle("Bacterial Beta Diversity (CCA)") + theme(plot.title = element_text(hjust = 0.5))
+```
+
+###STEP18: CCA plot with environmental fit
+
+Now, the CCA plot should inculde environmental arrows.
+
+```{r warning=FALSE}
+pcca.envfit
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
