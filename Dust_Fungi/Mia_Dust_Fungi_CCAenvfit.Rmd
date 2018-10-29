@@ -1,7 +1,7 @@
 ---
 title: "Mia_Dust_Fungi_CCAenvfit"
 author: "Nat Pombubpa"
-date: "Updated on October 26, 2018"
+date: "Updated on October 29, 2018"
 output: html_document
 ---
 
@@ -236,6 +236,31 @@ pcca.envfit
 
 
 
+###Testing with Ordistep
+
+```{r}
+metacca = meta[c(4,5,11)]
+```
+
+```{r}
+head(metacca)
+```
+
+```{r}
+TOTU = t(OTU)
+```
+
+```{r}
+ps.cca = cca(TOTU ~ 1, metacca)
+```
+
+```{r}
+ps.cca1 = cca(TOTU ~ ., metacca)
+```
+
+```{r}
+ordistep(ps.cca, scope=formula(ps.cca1), perm.max=999)
+```
 
 
 
